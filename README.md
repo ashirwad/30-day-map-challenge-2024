@@ -8,3 +8,9 @@ The map preview shows the locations of CyRide's--public transportation agency se
 
 [Explore Map](https://studio.foursquare.com/map/public/af7fb009-7f81-447d-9600-3ff0574911b5)
 
+## Day 2 - Lines
+The map preview shows CyRide's bus routes during regular weekdays in the year 2022.
+
+![2022 CyRide Bus Routes](map-previews/day02-lines.png)
+
+[Explore Map](https://studio.foursquare.com/map/public/818b7261-e5ea-486e-9a0a-ab809c5bd7e9)
