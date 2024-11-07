@@ -14,3 +14,10 @@ The map preview shows CyRide's bus routes during regular weekdays in the year 20
 ![2022 CyRide Bus Routes](map-previews/day02-lines.png)
 
 [Explore Map](https://studio.foursquare.com/map/public/818b7261-e5ea-486e-9a0a-ab809c5bd7e9)
+
+## Day 3 - Polygons
+The map preview shows Ames population count by Census Block Group (CBG) 2020. CBGs that intersect with Ames boundary are included in the map.
+
+![2020 Ames Population by CBG](map-previews/day03-polygons.png)
+
+[Explore Map](https://studio.foursquare.com/map/public/6450d397-6972-4f01-b4a3-25831804f249)
