@@ -28,3 +28,10 @@ The map shows 2024 September arrests/charges by Ames Police Department.
 ![2024 Sep Ames PD Charges](map-previews/day04-hexagons.png)
 
 [Explore Map](https://studio.foursquare.com/map/public/2a2cfbab-9b31-47c2-ab5d-0d6ce5c4d141)
+
+## Day 5 - A Journey
+The map shows potential destinations that you can go to on a bus journey from Ames.
+
+![2024 Ames Bus Destinations](map-previews/day05-a-journey.png)
+
+[Explore Map](https://studio.foursquare.com/map/public/581eb003-9734-4a7a-91e7-ce2e2fdc2ea9)
