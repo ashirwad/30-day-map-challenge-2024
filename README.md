@@ -21,3 +21,10 @@ The map preview shows 2020 Ames population count by Census Block Group (CBG). CB
 ![2020 Ames Population by CBG](map-previews/day03-polygons.png)
 
 [Explore Map](https://studio.foursquare.com/map/public/6450d397-6972-4f01-b4a3-25831804f249)
+
+## Day 4 - Hexagons
+The map shows 2024 September arrests/charges by Ames Police Department.
+
+![2024 Sep Ames PD Charges](map-previews/day04-hexagons.png)
+
+[Explore Map](https://studio.foursquare.com/map/public/2a2cfbab-9b31-47c2-ab5d-0d6ce5c4d141)
