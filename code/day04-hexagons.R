@@ -1,4 +1,6 @@
-ames_pd_charges <- readr::read_csv("data/ames-pd-sep-2024-charges.csv") |>
+ames_pd_charges <- readr::read_csv(
+  here::here("data", "ames-pd-sep-2024-charges.csv")
+) |>
   janitor::clean_names() |>
   dplyr::mutate(
     location_of_arrest = glue::glue("{location_of_arrest}, Ames, IA"),
@@ -8,4 +10,4 @@ ames_pd_charges <- readr::read_csv("data/ames-pd-sep-2024-charges.csv") |>
 
 
 ames_pd_charges |>
-  readr::write_csv("data/ames-pd-sep-2024-charges-geocoded.csv")
+  readr::write_csv(here::here("data", "ames-pd-sep-2024-charges-geocoded.csv"))
