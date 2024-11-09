@@ -35,3 +35,11 @@ The map shows potential destinations that you can go to on a bus journey from Am
 ![2024 Ames Bus Destinations](map-previews/day05-a-journey.png)
 
 [Explore Map](https://studio.foursquare.com/map/public/581eb003-9734-4a7a-91e7-ce2e2fdc2ea9) | [View Data Source](https://ride.jeffersonlines.com/locations/ia/166-ames)
+
+## Day 6 - Raster
+The map shows elevation raster data for Ames.
+
+![Ames Elevation Raster](map-previews/day06-raster.png)
+
+[Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day06-raster.html)
+[View Data Source](https://cran.r-project.org/web/packages/elevatr/index.html)
