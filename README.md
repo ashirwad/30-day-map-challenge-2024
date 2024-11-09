@@ -34,4 +34,4 @@ The map shows potential destinations that you can go to on a bus journey from Am
 
 ![2024 Ames Bus Destinations](map-previews/day05-a-journey.png)
 
-[Explore Map](https://studio.foursquare.com/map/public/581eb003-9734-4a7a-91e7-ce2e2fdc2ea9)
+[Explore Map](https://studio.foursquare.com/map/public/581eb003-9734-4a7a-91e7-ce2e2fdc2ea9) | [View Data Source](https://ride.jeffersonlines.com/locations/ia/166-ames)
