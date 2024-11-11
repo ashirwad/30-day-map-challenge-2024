@@ -43,3 +43,11 @@ The map shows elevation raster data for Ames.
 
 [Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day06-raster.html)
 [View Data Source](https://cran.r-project.org/web/packages/elevatr/index.html)
+
+## Day 7 - Vintage Style
+The map shows how Ames and surrounding areas looked way back in 1912!
+
+![Ames in 1912](map-previews/day07-vintage.png)
+
+[Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day07-vintage-style.html)
+[View Data Source](https://ngmdb.usgs.gov/topoview/viewer/#12/42.1373/-93.6174)
