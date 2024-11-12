@@ -51,3 +51,11 @@ The map shows how Ames and surrounding areas looked way back in 1912!
 
 [Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day07-vintage-style.html)
 [View Data Source](https://ngmdb.usgs.gov/topoview/viewer/#12/42.1373/-93.6174)
+
+## Day 8 - HDX
+The map shows airports in Iowa in 2024.
+
+![2024 Iowa Airports](map-previews/day08-hdx.png)
+
+[Explore Map](https://studio.foursquare.com/map/public/9c5f8b99-4f25-4ae2-80b5-a80e365f8c46)
+[View Data Source](https://data.humdata.org/dataset/ourairports-usa)

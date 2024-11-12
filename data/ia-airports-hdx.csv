@@ -1,0 +1,336 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+3496,KDSM,medium_airport,Des Moines International Airport,41.534,-93.663101,958,NA,United States,US,Iowa,US-IA,IA,Des Moines,1,KDSM,DSM,DSM,NA,https://en.wikipedia.org/wiki/Des_Moines_International_Airport,NA,750,2021-08-08T06:02:23Z
+3451,KCID,medium_airport,The Eastern Iowa Airport,41.884701,-91.7108,869,NA,United States,US,Iowa,US-IA,IA,Cedar Rapids,1,KCID,CID,CID,NA,https://en.wikipedia.org/wiki/The_Eastern_Iowa_Airport,Cedar Rapids Municipal,750,2021-11-20T15:30:19Z
+3482,KDBQ,medium_airport,Dubuque Regional Airport,42.402,-90.709503,1077,NA,United States,US,Iowa,US-IA,IA,Dubuque,1,KDBQ,DBQ,DBQ,NA,https://en.wikipedia.org/wiki/Dubuque_Regional_Airport,NA,750,2022-03-04T14:31:05Z
+3909,KSUX,medium_airport,Sioux Gateway Airport / Brigadier General Bud Day Field,42.397605,-96.382237,1098,NA,United States,US,Iowa,US-IA,IA,Sioux City,1,KSUX,SUX,SUX,https://www.sioux-city.org/government/departments-a-f/airport,https://en.wikipedia.org/wiki/Sioux_Gateway_Airport,"Col. Bud Day, Sioux City AB, Sioux City AAB",750,2021-11-20T15:52:32Z
+3375,KALO,medium_airport,Waterloo Regional Airport,42.557098388671875,-92.400299072265625,873,NA,United States,US,Iowa,US-IA,IA,Waterloo,1,KALO,ALO,ALO,NA,https://en.wikipedia.org/wiki/Waterloo_Regional_Airport,NA,750,2008-06-13T14:30:04Z
+20482,KMCW,medium_airport,Mason City Municipal Airport,43.159801,-93.329716,1213,NA,United States,US,Iowa,US-IA,IA,Mason City,1,KMCW,MCW,MCW,http://flymcw.com/,https://en.wikipedia.org/wiki/Mason_City_Municipal_Airport,NA,500,2024-04-03T13:25:28Z
+20182,KIOW,small_airport,Iowa City Municipal Airport,41.6391983032,-91.5465011597,668,NA,United States,US,Iowa,US-IA,IA,Iowa City,0,KIOW,IOW,IOW,http://www.icgov.org/?id=1501,https://en.wikipedia.org/wiki/Iowa_City_Municipal_Airport,NA,50,2014-05-24T23:03:48Z
+19280,KAMW,small_airport,Ames Municipal Airport,41.992001,-93.621803,956,NA,United States,US,Iowa,US-IA,IA,Ames,0,KAMW,AMW,AMW,NA,https://en.wikipedia.org/wiki/Ames_Municipal_Airport,NA,50,2016-06-01T05:43:04Z
+19669,KDVN,small_airport,Davenport Municipal Airport,41.610432,-90.589693,751,NA,United States,US,Iowa,US-IA,IA,Davenport,0,KDVN,DVN,DVN,http://www.cityofdavenportiowa.com/department/?fDD=47-0,https://en.wikipedia.org/wiki/Davenport_Municipal_Airport_(Iowa),NA,50,2021-10-13T16:43:01Z
+3425,KBRL,medium_airport,Southeast Iowa Regional Airport,40.783199310302734,-91.12550354003906,698,NA,United States,US,Iowa,US-IA,IA,Burlington,1,KBRL,BRL,BRL,NA,https://en.wikipedia.org/wiki/Southeast_Iowa_Regional_Airport,NA,750,2008-06-13T14:30:04Z
+20170,KIKV,small_airport,Ankeny Regional Airport,41.691399,-93.566399,910,NA,United States,US,Iowa,US-IA,IA,Ankeny,0,KIKV,NA,IKV,NA,https://en.wikipedia.org/wiki/Ankeny_Regional_Airport,NA,50,2024-05-18T19:45:33Z
+19573,KCWI,small_airport,Clinton Municipal Airport,41.8311004639,-90.3291015625,708,NA,United States,US,Iowa,US-IA,IA,Clinton,0,KCWI,CWI,CWI,NA,https://en.wikipedia.org/wiki/Clinton_Municipal_Airport_(Iowa),NA,50,2014-08-14T23:54:28Z
+3760,KOTM,medium_airport,Ottumwa Regional Airport,41.106368,-92.449837,845,NA,United States,US,Iowa,US-IA,IA,Ottumwa,0,KOTM,OTM,OTM,NA,https://en.wikipedia.org/wiki/Ottumwa_Regional_Airport,NA,475,2024-05-16T18:43:32Z
+19463,KCBF,small_airport,Council Bluffs Municipal Airport,41.2592010498,-95.760597229,1253,NA,United States,US,Iowa,US-IA,IA,Council Bluffs,0,KCBF,CBF,CBF,NA,https://en.wikipedia.org/wiki/Council_Bluffs_Municipal_Airport,NA,50,2012-06-23T05:58:42Z
+3536,KFOD,medium_airport,Fort Dodge Regional Airport,42.552624,-94.191237,1156,NA,United States,US,Iowa,US-IA,IA,Fort Dodge,1,KFOD,FOD,FOD,NA,https://en.wikipedia.org/wiki/Fort_Dodge_Regional_Airport,NA,750,2024-06-28T17:43:42Z
+19947,KGGI,small_airport,Grinnell Regional Airport,41.70991,-92.736052,1008,NA,United States,US,Iowa,US-IA,IA,Grinnell,0,KGGI,NA,GGI,NA,https://en.wikipedia.org/wiki/Grinnell_Regional_Airport,NA,50,2024-05-18T19:28:21Z
+21103,KSPW,small_airport,Spencer Municipal Airport,43.165500640869,-95.202796936035,1339,NA,United States,US,Iowa,US-IA,IA,Spencer,0,KSPW,SPW,SPW,http://spenceriowacity.com/airport.php,https://en.wikipedia.org/wiki/Spencer_Municipal_Airport,NA,50,2015-05-29T01:13:37Z
+21044,KSDA,small_airport,Shenandoah Municipal Airport,40.7515983581543,-95.4136962890625,971,NA,United States,US,Iowa,US-IA,IA,Shenandoah,0,KSDA,NA,SDA,NA,NA,NA,50,2008-06-13T14:30:04Z
+19332,KAWG,small_airport,Washington Municipal Airport,41.276100158691406,-91.67340087890624,754,NA,United States,US,Iowa,US-IA,IA,Washington,0,KAWG,NA,AWG,NA,NA,NA,50,2008-06-13T14:30:04Z
+19761,KEOK,small_airport,Keokuk Municipal Airport,40.459899902299995,-91.4284973145,671,NA,United States,US,Iowa,US-IA,IA,Keokuk,0,KEOK,EOK,EOK,http://www.cityofkeokuk.org/airport.html,https://en.wikipedia.org/wiki/Keokuk_Municipal_Airport,NA,50,2014-09-12T20:29:25Z
+19398,KBNW,small_airport,Boone Municipal Airport,42.049599,-93.847603,1160,NA,United States,US,Iowa,US-IA,IA,Boone,0,KBNW,BNW,BNW,NA,https://en.wikipedia.org/wiki/Boone_Municipal_Airport,NA,50,2024-05-16T18:37:29Z
+20152,KICL,small_airport,Schenck Field,40.72180176,-95.02639771,996,NA,United States,US,Iowa,US-IA,IA,Clarinda,0,KICL,ICL,ICL,NA,NA,NA,50,2013-07-18T18:02:47Z
+19622,KDEH,small_airport,Decorah Municipal Airport,43.275501,-91.739403,1158,NA,United States,US,Iowa,US-IA,IA,Decorah,0,KDEH,DEH,DEH,NA,https://en.wikipedia.org/wiki/Decorah_Municipal_Airport,NA,50,2022-03-01T12:53:13Z
+18358,US-0F3,small_airport,Spirit Lake Municipal Airport,43.387501,-95.139198,1434,NA,United States,US,Iowa,US-IA,IA,Okoboji,0,NA,RTL,0F3,NA,https://en.wikipedia.org/wiki/Spirit_Lake_Municipal_Airport,Lake Okoboji,50,2023-08-09T14:43:34Z
+20816,KPEA,small_airport,Pella Municipal Airport,41.40010070800781,-92.9458999633789,885,NA,United States,US,Iowa,US-IA,IA,Pella,0,KPEA,NA,PEA,NA,NA,NA,50,2008-06-13T14:30:04Z
+19646,KDNS,small_airport,Denison Municipal Airport,41.9864006,-95.38069916,1274,NA,United States,US,Iowa,US-IA,IA,Denison,0,KDNS,DNS,DNS,http://www.denisonia.com/community/airport.asp,https://en.wikipedia.org/wiki/Denison_Municipal_Airport,NA,50,2014-08-31T22:06:01Z
+20164,KIIB,small_airport,Independence Municipal Airport,42.456836,-91.94767,979,NA,United States,US,Iowa,US-IA,IA,Independence,0,KIIB,NA,IIB,NA,https://en.wikipedia.org/wiki/Independence_Municipal_Airport_(Iowa),NA,50,2024-05-18T19:44:18Z
+20760,KOQW,small_airport,Maquoketa Municipal Airport,42.050703,-90.739217,769,NA,United States,US,Iowa,US-IA,IA,Maquoketa,0,KOQW,NA,OQW,NA,NA,NA,50,2022-11-02T14:25:22Z
+20511,KMIW,small_airport,Marshalltown Municipal Airport,42.112701,-92.917801,974,NA,United States,US,Iowa,US-IA,IA,Marshalltown,0,KMIW,MIW,MIW,NA,NA,NA,50,2024-04-03T16:35:52Z
+20571,KMUT,small_airport,Muscatine Municipal Airport,41.367803,-91.148201,547,NA,United States,US,Iowa,US-IA,IA,Muscatine,0,KMUT,MUT,MUT,https://www.muscatineiowa.gov/550/Muscatine-Municipal-Airport,https://en.wikipedia.org/wiki/Muscatine_Municipal_Airport,NA,50,2019-04-28T02:03:23Z
+21207,KTNU,small_airport,Newton Municipal Airport,41.6744,-93.021698,953,NA,United States,US,Iowa,US-IA,IA,Newton,0,KTNU,TNU,TNU,http://www.newtongov.org/index.aspx?nid=189,https://en.wikipedia.org/wiki/Newton_Municipal_Airport_(Iowa),Earl Johnson Field,50,2022-09-27T14:22:49Z
+19262,KAIO,small_airport,Atlantic Municipal Airport,41.40729904,-95.04689789,1165,NA,United States,US,Iowa,US-IA,IA,Atlantic,0,KAIO,AIO,AIO,NA,https://en.wikipedia.org/wiki/Atlantic_Municipal_Airport,NA,50,2011-09-04T11:05:43Z
+19500,KCIN,small_airport,Arthur N Neu Airport,42.0461997986,-94.7890014648,1204,NA,United States,US,Iowa,US-IA,IA,Carroll,0,KCIN,CIN,CIN,http://www.cityofcarroll.com/index.php/departments/airport,https://en.wikipedia.org/wiki/Arthur_N._Neu_Airport,NA,50,2014-07-20T13:57:29Z
+20756,KOOA,small_airport,Oskaloosa Municipal Airport,41.2262,-92.493896,841,NA,United States,US,Iowa,US-IA,IA,Cedar,0,KOOA,OOA,OOA,NA,NA,NA,50,2024-04-03T17:13:45Z
+19863,KFFL,small_airport,Fairfield Municipal Airport,41.053024,-91.980114,799,NA,United States,US,Iowa,US-IA,IA,Fairfield,0,KFFL,FFL,FFL,http://cityoffairfieldiowa.com/index.aspx?nid=65,https://en.wikipedia.org/wiki/Fairfield_Municipal_Airport_(Iowa),NA,50,2021-10-14T14:47:04Z
+19439,KC17,small_airport,Marion Airport,42.031101,-91.529297,862,NA,United States,US,Iowa,US-IA,IA,Marion,0,KC17,NA,C17,NA,https://en.wikipedia.org/wiki/Marion_Airport,NA,50,2024-05-20T15:51:47Z
+20587,KMXO,small_airport,Monticello Regional Airport,42.220402,-91.1633,832,NA,United States,US,Iowa,US-IA,IA,Monticello,0,KMXO,MXO,MXO,NA,https://en.wikipedia.org/wiki/Monticello_Regional_Airport,NA,50,2024-04-03T16:55:50Z
+20552,KMPZ,small_airport,Mount Pleasant Municipal Airport,40.94660187,-91.51110077,730,NA,United States,US,Iowa,US-IA,IA,Mount Pleasant,0,KMPZ,MPZ,MPZ,https://www.cityofmountpleasantiowa.org/citysite/citydepartments/publicworks_airport.aspx,https://en.wikipedia.org/wiki/Mount_Pleasant_Municipal_Airport_(Iowa),NA,50,2015-03-19T17:27:53Z
+20960,KRRQ,small_airport,Rock Rapids Municipal Airport,43.45220184326172,-96.17980194091795,1363,NA,United States,US,Iowa,US-IA,IA,Rock Rapids,0,KRRQ,NA,RRQ,NA,NA,NA,50,2008-06-13T14:30:04Z
+21078,KSLB,small_airport,Storm Lake Municipal Airport,42.5973014832,-95.2406997681,1488,NA,United States,US,Iowa,US-IA,IA,Storm Lake,0,KSLB,SLB,SLB,http://www.stormlake.org/index.aspx?NID=16,https://en.wikipedia.org/wiki/Storm_Lake_Municipal_Airport,NA,50,2013-08-31T01:37:26Z
+21338,KVTI,small_airport,Vinton Veterans Memorial Airpark,42.218221,-92.025905,842,NA,United States,US,Iowa,US-IA,IA,Vinton,0,KVTI,NA,VTI,NA,NA,NA,50,2023-08-11T12:14:08Z
+19335,KAXA,small_airport,Algona Municipal Airport,43.078104,-94.271836,1219,NA,United States,US,Iowa,US-IA,IA,Algona,0,KAXA,AXG,AXA,NA,https://en.wikipedia.org/wiki/Algona_Municipal_Airport,NA,50,2022-12-20T11:36:41Z
+19239,KADU,small_airport,Audubon County Airport,41.701401,-94.920502,1287,NA,United States,US,Iowa,US-IA,IA,Audubon,0,KADU,NA,ADU,NA,https://en.wikipedia.org/wiki/Audubon_County_Airport,NA,50,2024-05-18T18:26:55Z
+18831,K4K6,small_airport,Bloomfield Municipal Airport,40.732101,-92.428299,888,NA,United States,US,Iowa,US-IA,IA,Bloomfield,0,K4K6,NA,4K6,NA,https://en.wikipedia.org/wiki/Bloomfield_Municipal_Airport_(Iowa),NA,50,2024-05-20T15:11:30Z
+19509,KCKP,small_airport,Cherokee County Regional Airport,42.7317009,-95.55590057,1227,NA,United States,US,Iowa,US-IA,IA,Cherokee,0,KCKP,NA,CKP,NA,NA,NA,50,2010-01-23T11:28:51Z
+19772,KEST,small_airport,Estherville Municipal Airport,43.407398,-94.746399,1319,NA,United States,US,Iowa,US-IA,IA,Estherville,0,KEST,EST,EST,NA,https://en.wikipedia.org/wiki/Estherville_Municipal_Airport,NA,50,2024-05-20T16:01:42Z
+20069,KHNR,small_airport,Harlan Municipal Airport,41.58440017700195,-95.339599609375,1231,NA,United States,US,Iowa,US-IA,IA,Harlan,0,KHNR,NA,HNR,NA,NA,NA,50,2008-06-13T14:30:04Z
+20159,KIFA,small_airport,Iowa Falls Municipal Airport,42.4707984924,-93.2699966431,1137,NA,United States,US,Iowa,US-IA,IA,Iowa Falls,0,KIFA,IFA,IFA,http://www.cityofiowafalls.com/airport.asp,NA,NA,50,2013-07-18T20:53:38Z
+20372,KLRJ,small_airport,Le Mars Municipal Airport,42.77799988,-96.1937027,1197,NA,United States,US,Iowa,US-IA,IA,Le Mars,0,KLRJ,LRJ,LRJ,http://www.lemarsiowa.com/citygov/airport.htm,https://en.wikipedia.org/wiki/Le_Mars_Municipal_Airport,http://www.lemarsiowa.com/citygov/airport.htm,50,2015-02-28T18:35:43Z
+17702,IA24,small_airport,Green Castle Airport,41.755001,-91.727699,750,NA,United States,US,Iowa,US-IA,IA,Oxford,0,IA24,NA,IA24,NA,https://en.wikipedia.org/wiki/Green_Castle_Airport,NA,50,2024-05-20T13:49:43Z
+20921,KRDK,small_airport,Red Oak Municipal Airport,41.010502,-95.259903,1045,NA,United States,US,Iowa,US-IA,IA,Red Oak,0,KRDK,NA,RDK,NA,https://en.wikipedia.org/wiki/Red_Oak_Municipal_Airport,NA,50,2024-05-18T20:23:08Z
+19470,KCCY,medium_airport,Northeast Iowa Regional Airport,43.0726013184,-92.6108016968,1125,NA,United States,US,Iowa,US-IA,IA,Charles City,0,KCCY,CCY,CCY,NA,https://en.wikipedia.org/wiki/Northeast_Iowa_Regional_Airport,Charles City Municipal Airport,250,2012-06-28T16:41:22Z
+21242,KTZT,small_airport,Belle Plaine Municipal Airport,41.87879943847656,-92.28459930419922,771,NA,United States,US,Iowa,US-IA,IA,Belle Plaine,0,KTZT,NA,TZT,NA,NA,NA,50,2008-06-13T14:30:04Z
+17705,IA27,small_airport,Antique Airfield,40.977798,-92.5877,890,NA,United States,US,Iowa,US-IA,IA,Blakesburg,0,IA27,NA,IA27,NA,https://en.wikipedia.org/wiki/Antique_Airfield,NA,50,2024-05-20T13:50:01Z
+21234,KTVK,small_airport,Centerville Municipal Airport,40.683899,-92.901001,1023,NA,United States,US,Iowa,US-IA,IA,Centerville,0,KTVK,NA,TVK,NA,https://en.wikipedia.org/wiki/Centerville_Municipal_Airport_(Iowa),NA,50,2024-05-18T20:35:35Z
+19522,KCNC,small_airport,Chariton Municipal Airport,41.01959991455078,-93.35970306396484,1050,NA,United States,US,Iowa,US-IA,IA,Chariton,0,KCNC,NA,CNC,NA,NA,NA,50,2008-06-13T14:30:04Z
+19559,KCSQ,small_airport,Creston Municipal Airport,41.0214004517,-94.3632965088,1300,NA,United States,US,Iowa,US-IA,IA,Creston,0,KCSQ,CSQ,CSQ,http://www.crestoniowa.gov/crestonmunicipalairport.htm,https://en.wikipedia.org/wiki/Creston_Municipal_Airport,NA,50,2014-08-05T02:02:44Z
+26335,Y76,small_airport,Morningstar Field,41.65549850463867,-93.64409637451172,805,NA,United States,US,Iowa,US-IA,IA,Des Moines,0,Y76,NA,Y76,NA,NA,NA,50,2008-06-13T14:30:04Z
+19913,KFXY,small_airport,Forest City Municipal Airport,43.23469925,-93.62409973,1229,NA,United States,US,Iowa,US-IA,IA,Forest City,0,KFXY,FXY,FXY,http://www.cityofforestcity.com/departments/airport.asp,https://en.wikipedia.org/wiki/Forest_City_Municipal_Airport,NA,50,2014-09-18T03:06:23Z
+19944,KGFZ,small_airport,Greenfield Municipal Airport,41.327,-94.445702,1364,NA,United States,US,Iowa,US-IA,IA,Greenfield,0,KGFZ,NA,GFZ,NA,NA,NA,50,2024-07-08T12:17:06Z
+20074,KHPT,small_airport,Hampton Municipal Airport,42.7237014771,-93.2263031006,1176,NA,United States,US,Iowa,US-IA,IA,Hampton,0,KHPT,HPT,HPT,NA,NA,NA,50,2014-11-19T22:24:10Z
+18371,K0K7,small_airport,Humboldt Municipal Airport,42.734831,-94.245315,1093,NA,United States,US,Iowa,US-IA,IA,Humboldt,0,K0K7,HUD,0K7,http://www.iowadot.gov/aviation/airports/AirportIntermediate.aspx?FAACode=0K7,https://en.wikipedia.org/wiki/Humboldt_Municipal_Airport_(Iowa),NA,50,2022-12-20T11:37:44Z
+20153,KIDG,small_airport,Ida Grove Municipal Airport,42.3326,-95.444901,1245,NA,United States,US,Iowa,US-IA,IA,Ida Grove,0,KIDG,IDG,IDG,NA,NA,NA,50,2024-04-03T16:18:25Z
+19734,KEFW,small_airport,Jefferson Municipal Airport,42.009866,-94.341717,1044,NA,United States,US,Iowa,US-IA,IA,Jefferson,0,KEFW,EFW,EFW,https://cityofjeffersoniowa.org/city-departments/airport/,NA,Don Monthei Airfield,50,2024-07-23T04:00:40Z
+20786,KOXV,small_airport,Knoxville Municipal Airport,41.298901,-93.1138,928,NA,United States,US,Iowa,US-IA,IA,Knoxville,0,KOXV,NA,OXV,NA,https://en.wikipedia.org/wiki/Knoxville_Municipal_Airport,NA,50,2024-05-18T20:16:12Z
+21733,LWD,small_airport,Lamoni Municipal Airport,40.633301,-93.902199,1131,NA,United States,US,Iowa,US-IA,IA,Lamoni,0,KLWD,NA,LWD,NA,NA,NA,50,2024-02-02T13:39:03Z
+14130,2VA,small_airport,Zangger Vintage Airpark,43.4514007568,-96.4058990479,1476,NA,United States,US,Iowa,US-IA,IA,Larchwood,0,2VA,NA,2VA,NA,NA,Formerly 7IA2,50,2009-12-08T20:33:30Z
+19443,KC27,small_airport,Manchester Municipal Airport,42.490518,-91.497874,987,NA,United States,US,Iowa,US-IA,IA,Manchester,0,KC27,NA,C27,NA,NA,NA,50,2022-11-02T14:48:19Z
+329842,KSXK,small_airport,Sioux County Regional Airport,42.9858275,-96.1614,1409,NA,United States,US,Iowa,US-IA,IA,Maurice,0,KSXK,NA,SXK,https://www.siouxcenter.org/15/Airport,NA,NA,50,2018-12-16T20:01:13Z
+11397,4D8,small_airport,Fuller Airport,43.33319854736328,-95.15899658203124,1439,NA,United States,US,Iowa,US-IA,IA,Milford,0,4D8,NA,4D8,NA,NA,NA,50,2008-06-13T14:30:04Z
+20744,KOLZ,small_airport,Oelwein Municipal Airport,42.680889,-91.97372,1076,NA,United States,US,Iowa,US-IA,IA,Oelwein,0,KOLZ,NA,OLZ,NA,NA,NA,50,2022-11-02T14:46:08Z
+20856,KPOH,small_airport,Pocahontas Municipal Airport,42.742802,-94.647301,1226,NA,United States,US,Iowa,US-IA,IA,Pocahontas,0,KPOH,POH,POH,NA,NA,NA,50,2024-04-03T17:16:25Z
+26323,Y01,small_airport,Waukon Municipal Airport,43.280498504639,-91.469497680664,1281,NA,United States,US,Iowa,US-IA,IA,Waukon,0,Y01,UKN,Y01,NA,NA,NA,50,2016-02-04T15:53:45Z
+16512,C25,small_airport,Waverly Municipal Airport,42.742001,-92.507896,992,NA,United States,US,Iowa,US-IA,IA,Waverly,0,C25,NA,C25,NA,https://en.wikipedia.org/wiki/Waverly_Municipal_Airport,NA,50,2024-05-19T03:08:08Z
+19720,KEBS,small_airport,Webster City Municipal Airport,42.436848,-93.869905,1122,NA,United States,US,Iowa,US-IA,IA,Webster City,0,KEBS,EBS,EBS,NA,https://en.wikipedia.org/wiki/Webster_City_Municipal_Airport,NA,50,2024-07-08T13:23:25Z
+18754,K3Y3,small_airport,Winterset Madison County Airport,41.362801,-94.021103,1110,NA,United States,US,Iowa,US-IA,IA,Winterset,0,3Y3,NA,3Y3,NA,https://en.wikipedia.org/wiki/Winterset_Municipal_Airport,NA,50,2024-07-22T20:57:02Z
+18810,K4C8,small_airport,Albia Municipal Airport,40.996128,-92.765594,963,NA,United States,US,Iowa,US-IA,IA,Albia,0,K4C8,NA,4C8,NA,NA,NA,50,2022-12-30T11:12:05Z
+16511,C11,small_airport,Amana Airport,41.794032,-91.864758,712,NA,United States,US,Iowa,US-IA,IA,Amana,0,C11,NA,C11,NA,NA,"Hursh, KC11",50,2023-08-09T12:35:02Z
+322364,HOPA,small_airport,Hoppe Airspray,42.257036,-92.835475,NA,NA,United States,US,Iowa,US-IA,IA,Beaman,0,NA,NA,HOPA,NA,NA,NA,50,2018-04-26T11:02:59Z
+26328,Y46,small_airport,Bedford Municipal Airport,40.63779830932617,-94.729400634765625,1201,NA,United States,US,Iowa,US-IA,IA,Bedford,0,Y46,NA,Y46,NA,NA,NA,50,2008-06-13T14:30:04Z
+26329,Y48,small_airport,Belmond Municipal Airport,42.85269927978515,-93.5947036743164,1201,NA,United States,US,Iowa,US-IA,IA,Belmond,0,Y48,NA,Y48,NA,NA,NA,50,2008-06-13T14:30:04Z
+430424,60IA,small_airport,Village Oaks Airport,41.469664,-90.781292,732,NA,United States,US,Iowa,US-IA,IA,Blue Grass,0,60IA,NA,60IA,NA,NA,NA,50,2022-10-10T14:25:03Z
+19556,KCRZ,small_airport,Corning Municipal Airport,40.994099,-94.754997,1274,NA,United States,US,Iowa,US-IA,IA,Corning,0,KCRZ,NA,CRZ,NA,https://en.wikipedia.org/wiki/Corning_Municipal_Airport_(Iowa),NA,50,2024-05-18T18:50:22Z
+7159,0E9,small_airport,Corydon Airport,40.754734,-93.242447,1020,NA,United States,US,Iowa,US-IA,IA,Corydon,0,K0E9,NA,0E9,NA,NA,NA,50,2022-08-03T15:21:40Z
+17713,IA35,small_airport,Ruckl Airport,41.187198638916016,-95.9041976928711,970,NA,United States,US,Iowa,US-IA,IA,Council Bluffs,0,IA35,NA,IA35,NA,NA,NA,50,2008-06-13T14:30:04Z
+19714,KEAG,small_airport,Eagle Grove Municipal Airport,42.709801,-93.9161,1133,NA,United States,US,Iowa,US-IA,IA,Eagle Grove,0,KEAG,NA,EAG,NA,NA,NA,50,2022-12-20T11:42:19Z
+19736,KEGQ,small_airport,Emmetsburg Municipal Airport,43.10200119018555,-94.70469665527344,1205,NA,United States,US,Iowa,US-IA,IA,Emmetsburg,0,KEGQ,NA,EGQ,NA,NA,NA,50,2008-06-13T14:30:04Z
+19902,KFSW,small_airport,Fort Madison Municipal Airport,40.659113,-91.327763,724,NA,United States,US,Iowa,US-IA,IA,Fort Madison,0,KFSW,FMS,FSW,NA,NA,K27,50,2021-07-29T01:12:24Z
+13321,6K7,small_airport,Grundy Center Municipal Airport,42.350799560546875,-92.84349822998048,1075,NA,United States,US,Iowa,US-IA,IA,Grundy Center,0,6K7,NA,6K7,NA,NA,NA,50,2008-06-13T14:30:04Z
+19931,KGCT,small_airport,Guthrie County Regional Airport,41.687801361083984,-94.4352035522461,1230,NA,United States,US,Iowa,US-IA,IA,Guthrie Center,0,KGCT,NA,GCT,NA,NA,NA,50,2008-06-13T14:30:04Z
+13323,6K9,small_airport,Keosauqua Municipal Airport,40.733406,-91.949531,580,NA,United States,US,Iowa,US-IA,IA,Keosauqua,0,K6K9,NA,6K9,NA,NA,NA,50,2022-02-16T12:18:24Z
+7646,0Y6,small_airport,Lake Mills Municipal Airport,43.41329,-93.512019,1260,NA,United States,US,Iowa,US-IA,IA,Lake Mills,0,0Y6,NA,0Y6,NA,NA,NA,50,2023-08-09T21:03:20Z
+20494,KMEY,small_airport,James G. Whiting Memorial Field,42.178299,-95.793602,1116,NA,United States,US,Iowa,US-IA,IA,Mapleton,0,KMEY,NA,MEY,https://secure.iowadot.gov/aviation/data_driven/publications/System_plan_reports/SPRMEY.pdf,https://en.wikipedia.org/wiki/James_G._Whiting_Memorial_Field,NA,50,2024-04-16T18:14:42Z
+14131,7IA3,small_airport,Mc Bride Field,42.0638999939,-91.6343002319,881,NA,United States,US,Iowa,US-IA,IA,Marion,0,7IA3,NA,7IA3,NA,NA,NA,50,2009-12-08T18:04:54Z
+15279,90IA,small_airport,Missouri Valley Airport,41.54029846191406,-95.88780212402344,1000,NA,United States,US,Iowa,US-IA,IA,Missouri Valley,0,90IA,NA,90IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+20145,KI75,small_airport,Osceola Municipal Airport,41.0522,-93.689697,1110,NA,United States,US,Iowa,US-IA,IA,Osceola,0,KI75,NA,I75,NA,https://en.wikipedia.org/wiki/Osceola_Municipal_Airport_(Iowa),NA,50,2024-05-20T16:13:02Z
+8773,1Y9,small_airport,Paullina Municipal Airport,42.98830032348633,-95.66449737548828,1385,NA,United States,US,Iowa,US-IA,IA,Paullina,0,1Y9,NA,1Y9,NA,NA,NA,50,2008-06-13T14:30:04Z
+20867,KPRO,small_airport,Perry Municipal Airport,41.82799911,-94.15989685,1013,NA,United States,US,Iowa,US-IA,IA,Perry,0,KPRO,PRO,PRO,http://www.perryia.org/perry-municipal-airport.html,https://en.wikipedia.org/wiki/Perry_Municipal_Airport_(Iowa),NA,50,2016-01-08T23:39:44Z
+18633,K2Y4,small_airport,Rockwell City Municipal Airport,42.387612,-94.618444,1217,NA,United States,US,Iowa,US-IA,IA,Rockwell City,0,K2Y4,NA,2Y4,NA,NA,NA,50,2024-07-08T16:32:45Z
+12382,5IA5,small_airport,Folkerts Airport,43.14300155639648,-92.87799835205078,1150,NA,United States,US,Iowa,US-IA,IA,Rudd,0,5IA5,NA,5IA5,NA,NA,NA,50,2008-06-13T14:30:04Z
+21067,KSHL,small_airport,Sheldon Regional Airport,43.208401,-95.833396,1419,NA,United States,US,Iowa,US-IA,IA,Sheldon,0,KSHL,NA,SHL,NA,NA,Sheldon Municipal,50,2017-12-03T10:25:46Z
+20186,KISB,small_airport,Sibley Municipal Airport,43.36949921,-95.75980377,1538,NA,United States,US,Iowa,US-IA,IA,Sibley,0,KISB,NA,ISB,NA,NA,NA,50,2010-01-23T11:29:08Z
+11955,53IA,small_airport,Tama Airport,41.95000076293945,-92.57659912109376,813,NA,United States,US,Iowa,US-IA,IA,Tama,0,53IA,NA,53IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+19121,K8C4,small_airport,Mathews Memorial Airport,41.76340103149414,-91.15290069580078,840,NA,United States,US,Iowa,US-IA,IA,Tipton,0,K8C4,NA,8C4,NA,NA,NA,50,2008-06-13T14:30:04Z
+11365,4C7,small_airport,Ackley Municipal Airport,42.547079,-93.033271,1070,NA,United States,US,Iowa,US-IA,IA,Ackley,0,NA,NA,4C7,NA,NA,NA,50,2021-07-23T13:43:16Z
+331126,US-1114,small_airport,Stagecoach Airport,41.6052,-94.6161778,1395,NA,United States,US,Iowa,US-IA,IA,Adair,0,IA43,NA,IA43,NA,NA,NA,50,2019-05-03T09:56:10Z
+353827,US-6779,small_airport,Jungmanns Landing,41.568454,-93.980806,914,NA,United States,US,Iowa,US-IA,IA,Adel,0,2IA7,NA,2IA7,NA,NA,NA,50,2022-03-30T20:09:17Z
+534723,US-8551,small_airport,Ainsworth Airport,41.295551,-91.575012,747,NA,United States,US,Iowa,US-IA,IA,Ainsworth,0,NA,NA,NA,NA,NA,NA,50,2024-06-24T12:22:23Z
+19170,K98,small_airport,Allison Municipal Airport,42.76390075683594,-92.8043975830078,1053,NA,United States,US,Iowa,US-IA,IA,Allison,0,K98,NA,K98,NA,NA,NA,50,2008-06-13T14:30:04Z
+21420,KY43,small_airport,Anita Municipal Airport Kevin Burke Memorial Field,41.439993,-94.769983,1251,NA,United States,US,Iowa,US-IA,IA,Anita,0,NA,NA,Y43,NA,https://en.wikipedia.org/wiki/Anita_Municipal_Airport,NA,50,2024-07-24T11:51:07Z
+11158,46IA,small_airport,Todd Field,41.756928,-93.566723,965,NA,United States,US,Iowa,US-IA,IA,Ankeny,0,46IA,NA,46IA,NA,NA,Todd's Flying Service,50,2024-07-18T20:35:55Z
+430401,14IA,small_airport,East River Airport,43.360281,-94.442364,1235,NA,United States,US,Iowa,US-IA,IA,Armstrong,0,14IA,NA,14IA,NA,NA,NA,50,2022-10-08T19:49:34Z
+310040,15IA,small_airport,Stella Airport,42.235396,-90.406767,625,NA,United States,US,Iowa,US-IA,IA,Bellevue,0,15IA,NA,15IA,NA,NA,Bellevue Flying Circus Airport,50,2022-08-03T15:30:04Z
+333402,US-1192,small_airport,Knight Field,41.956697,-94.086942,989,NA,United States,US,Iowa,US-IA,IA,Berkley,0,IA21,NA,IA21,NA,NA,NA,50,2020-02-22T10:17:57Z
+7026,09IA,small_airport,Skydive Iowa Airport,41.745441,-92.411547,820,NA,United States,US,Iowa,US-IA,IA,Brooklyn,0,09IA,NA,09IA,NA,NA,Val-Air Airport,50,2022-09-27T14:29:56Z
+17747,IA70,small_airport,Friesenborg & Larson Airport,43.42580032348633,-93.83580017089844,1220,NA,United States,US,Iowa,US-IA,IA,Buffalo Center,0,IA70,NA,IA70,NA,NA,NA,50,2008-06-13T14:30:04Z
+15524,97IA,small_airport,Volkens Field,41.25579833984375,-95.47669982910156,1275,NA,United States,US,Iowa,US-IA,IA,Carson,0,97IA,NA,97IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+8997,24IA,small_airport,Isley Field,42.51580047607422,-92.5197982788086,982,NA,United States,US,Iowa,US-IA,IA,Cedar Falls,0,24IA,NA,24IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+11445,4IA7,small_airport,Witcombe Field,42.471337,-92.504539,1000,NA,United States,US,Iowa,US-IA,IA,Cedar Falls,0,4IA7,NA,4IA7,NA,NA,NA,50,2023-05-26T16:56:00Z
+17696,IA17,small_airport,Bluebird Airport,42.622064,-92.501033,924,NA,United States,US,Iowa,US-IA,IA,Cedar Falls,0,IA17,NA,IA17,NA,NA,NA,50,2022-03-08T15:58:32Z
+14823,89IA,small_airport,Chain Lakes Airpark,42.05139923095703,-91.716796875,825,NA,United States,US,Iowa,US-IA,IA,Cedar Rapids,0,89IA,NA,89IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+7209,0IA8,small_airport,Hannen Airport,42.22800064086914,-91.7509994506836,925,NA,United States,US,Iowa,US-IA,IA,Center Point,0,0IA8,NA,0IA8,NA,NA,NA,50,2008-06-13T14:30:04Z
+337151,US-1957,small_airport,Yaw-Hoo Field,40.854197,-95.085928,1248,NA,United States,US,Iowa,US-IA,IA,Clarinda,0,IA05,NA,IA05,NA,NA,NA,50,2020-11-09T23:49:38Z
+19461,KCAV,small_airport,Clarion Municipal Airport,42.741901,-93.758904,1162,NA,United States,US,Iowa,US-IA,IA,Clarion,0,KCAV,NA,CAV,NA,https://en.wikipedia.org/wiki/Clarion_Municipal_Airport,NA,50,2024-05-18T18:40:33Z
+345057,US-4328,small_airport,Plain Ol' Field,43.139235,-93.433589,1240,NA,United States,US,Iowa,US-IA,IA,Clear Lake,0,IA38,NA,IA38,NA,NA,https://www.airnav.com/airport/IA38,50,2022-03-01T12:34:01Z
+7988,16IA,small_airport,Stangl Airport,41.879988,-94.777279,1230,NA,United States,US,Iowa,US-IA,IA,Coon Rapids,0,16IA,NA,16IA,NA,NA,NA,50,2024-07-08T13:24:25Z
+523563,26IA,small_airport,Midway View Farms Airport,42.373777,-95.765149,1355,NA,United States,US,Iowa,US-IA,IA,Correctionville,0,26IA,NA,26IA,NA,NA,NA,50,2024-03-22T21:57:18Z
+331124,US-1113,small_airport,Besch Airport,42.973694,-94.035902,1165,NA,United States,US,Iowa,US-IA,IA,Corwith,0,IA18,NA,IA18,NA,NA,NA,50,2019-05-03T09:31:24Z
+505770,US-7432,small_airport,Wells Field,40.756833,-93.401503,1092,NA,United States,US,Iowa,US-IA,IA,Corydon,0,6IA6,NA,6IA6,NA,NA,NA,50,2022-12-27T13:01:49Z
+346311,US-4767,small_airport,Kelley Airport,41.35582,-95.848236,1196,NA,United States,US,Iowa,US-IA,IA,Crescent,0,IA32,NA,IA32,NA,NA,NA,50,2021-07-09T11:50:22Z
+16715,CJJ,small_airport,Ellen Church Field,43.3652992249,-92.133102417,1279,NA,United States,US,Iowa,US-IA,IA,Cresco,0,KCJJ,NA,CJJ,NA,NA,NA,50,2012-08-13T18:00:15Z
+8327,1IA4,small_airport,Wallace Field,41.05550003051758,-94.39469909667967,1290,NA,United States,US,Iowa,US-IA,IA,Creston,0,1IA4,NA,1IA4,NA,NA,NA,50,2008-06-13T14:30:04Z
+9436,2IA9,small_airport,South 80 Field,43.190799713134766,-93.7707977294922,1210,NA,United States,US,Iowa,US-IA,IA,Crystal Lake,0,2IA9,NA,2IA9,NA,NA,NA,50,2008-06-13T14:30:04Z
+347508,20IA,small_airport,Hobbes Field,41.521576,-93.801634,850,NA,United States,US,Iowa,US-IA,IA,Cumming,0,20IA,NA,20IA,NA,NA,NA,50,2021-09-04T11:09:34Z
+10325,39IA,small_airport,Husband Field,41.67940139770508,-94.02020263671876,1010,NA,United States,US,Iowa,US-IA,IA,Dallas Center,0,39IA,NA,39IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+11443,4IA4,small_airport,Mccoy Airport,40.818599700927734,-91.338897705078125,715,NA,United States,US,Iowa,US-IA,IA,Danville,0,4IA4,NA,4IA4,NA,NA,NA,50,2008-06-13T14:30:04Z
+11447,4IA9,small_airport,Triple J Airport,42.45830154418945,-92.72239685058594,1020,NA,United States,US,Iowa,US-IA,IA,Dike,0,4IA9,NA,4IA9,NA,NA,NA,50,2008-06-13T14:30:04Z
+17731,IA54,small_airport,Anderson Airport,42.50175,-90.84218,1135,NA,United States,US,Iowa,US-IA,IA,Dubuque,0,IA54,NA,IA54,NA,NA,NA,50,2022-03-04T14:32:10Z
+13276,6IA5,small_airport,Davis Field,42.61669921875,-92.21690368652344,1005,NA,United States,US,Iowa,US-IA,IA,Dunkerton,0,6IA5,NA,6IA5,NA,NA,NA,50,2008-06-13T14:30:04Z
+17757,IA80,small_airport,Dyersville Area Airport,42.496101,-91.179901,980,NA,United States,US,Iowa,US-IA,IA,Dyersville,0,NA,NA,IA8,NA,NA,IA80,50,2022-04-23T09:43:57Z
+46309,IA8,small_airport,Dyersville Area Airport,42.496105,-91.179859,980,NA,United States,US,Iowa,US-IA,IA,Dyersville,0,IA8,NA,IA8,NA,NA,NA,50,2010-03-16T12:19:28Z
+15608,99IA,small_airport,Courtney's Landing Airport,41.21659851074219,-92.77799987792967,835,NA,United States,US,Iowa,US-IA,IA,Eddyville,0,99IA,NA,99IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+13203,6C0,small_airport,Eldora Airport,42.330183,-93.114286,979,NA,United States,US,Iowa,US-IA,IA,Eldora,0,NA,NA,27P,https://www.iowadot.gov/aviation/data_driven/publications/System_plan_reports/SPR6C0.pdf,https://en.wikipedia.org/wiki/Eldora_Municipal_Airport,"6C0, Eldora Municipal",50,2021-06-23T22:04:25Z
+17664,I27,small_airport,Elkader Airport,42.846900939941406,-91.38069915771484,932,NA,United States,US,Iowa,US-IA,IA,Elkader,0,I27,NA,I27,NA,NA,NA,50,2008-06-13T14:30:04Z
+348573,US-5477,small_airport,Bascom Field,41.787253,-93.512406,969,NA,United States,US,Iowa,US-IA,IA,Elkhart,0,IA77,NA,IA77,NA,NA,NA,50,2021-10-11T01:38:11Z
+338862,US-2510,small_airport,Flatlander Airport,41.141411,-95.194381,1081,NA,United States,US,Iowa,US-IA,IA,Elliott,0,03IA,NA,03IA,NA,NA,NA,50,2021-01-08T09:56:33Z
+14678,85IA,small_airport,Henry Airport,43.1786003112793,-92.69740295410156,1125,NA,United States,US,Iowa,US-IA,IA,Floyd,0,85IA,NA,85IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+342455,US-3389,small_airport,Mggenas Airport,41.476882,-92.37957,920,NA,United States,US,Iowa,US-IA,IA,Gibson,0,IA12,NA,IA12,NA,NA,NA,50,2021-03-27T22:18:51Z
+17701,IA23,small_airport,GAA Private (Abels Island) Airport,42.808899,-91.098198,620,NA,United States,US,Iowa,US-IA,IA,Guttenberg,0,IA23,NA,IA23,NA,NA,NA,50,2021-10-14T00:12:16Z
+17709,IA31,small_airport,Beeds Lake Airport,42.7666015625,-93.246002197265625,1148,NA,United States,US,Iowa,US-IA,IA,Hampton,0,IA31,NA,IA31,NA,NA,NA,50,2008-06-13T14:30:04Z
+7645,0Y4,small_airport,Lambert Fechter Municipal Airport,43.16419982910156,-95.470001220703125,1452,NA,United States,US,Iowa,US-IA,IA,Hartley,0,0Y4,NA,0Y4,NA,NA,NA,50,2008-06-13T14:30:04Z
+347086,US-5002,small_airport,Carr Field,42.243331,-96.098492,1064,NA,United States,US,Iowa,US-IA,IA,Hornick,0,IA59,NA,IA59,NA,NA,NA,50,2021-08-16T17:03:19Z
+345652,11IA,small_airport,Koch Field,42.349636,-92.513316,988,NA,United States,US,Iowa,US-IA,IA,Hudson,0,11IA,NA,11IA,NA,NA,NA,50,2021-06-23T22:50:53Z
+346294,US-4766,small_airport,Ritel Copter Airstrip,42.313802,-92.411751,982,NA,United States,US,Iowa,US-IA,IA,Hudson,0,IA42,NA,IA42,NA,NA,NA,50,2021-07-09T03:29:10Z
+17690,IA11,small_airport,Too Short Airport,41.29389953613281,-93.665496826171875,980,NA,United States,US,Iowa,US-IA,IA,Indianola,0,IA11,NA,IA11,NA,NA,NA,50,2008-06-13T14:30:04Z
+17719,IA41,small_airport,Laverty Field,41.41529846191406,-93.5613021850586,950,NA,United States,US,Iowa,US-IA,IA,Indianola,0,IA41,NA,IA41,NA,NA,NA,50,2008-06-13T14:30:04Z
+17743,IA66,small_airport,Nash Field Indianola Airport,41.303902,-93.567703,991,NA,United States,US,Iowa,US-IA,IA,Indianola,0,NA,NA,6Z6,NA,NA,IA66,50,2018-03-18T00:33:32Z
+17762,IA85,small_airport,Tuinstra Airfield,41.43510055541992,-93.540496826171875,900,NA,United States,US,Iowa,US-IA,IA,Indianola,0,IA85,NA,IA85,NA,NA,NA,50,2008-06-13T14:30:04Z
+17763,IA86,small_airport,Hedgewood Landing Airport,41.266700744628906,-93.5093994140625,990,NA,United States,US,Iowa,US-IA,IA,Indianola,0,IA86,NA,IA86,NA,NA,NA,50,2008-06-13T14:30:04Z
+507597,US-7574,small_airport,Agrivation Field,41.338392,-93.653706,972,NA,United States,US,Iowa,US-IA,IA,Indianola,0,IA20,NA,IA20,NA,NA,NA,50,2023-03-29T23:28:28Z
+17695,IA16,small_airport,Picayune Airport,41.70830154418945,-91.5001983642578,800,NA,United States,US,Iowa,US-IA,IA,Iowa City,0,IA16,NA,IA16,NA,NA,NA,50,2008-06-13T14:30:04Z
+15385,93IA,small_airport,Lund Airport,42.26029968261719,-93.64969635009766,1063,NA,United States,US,Iowa,US-IA,IA,Jewell,0,93IA,NA,93IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+9148,27IA,small_airport,Oldfield Aero,40.75130081179999,-92.0307006836,750,NA,United States,US,Iowa,US-IA,IA,Keosauqua,0,27IA,NA,27IA,NA,NA,NA,50,2009-12-08T19:19:36Z
+17722,IA44,small_airport,Solly's Strip Ultralightport,40.65140151977539,-93.96080017089844,1150,NA,United States,US,Iowa,US-IA,IA,Lamoni,0,IA44,NA,IA44,NA,NA,NA,50,2008-06-13T14:30:04Z
+17761,IA84,small_airport,Lawton Airport,42.479107,-96.207184,1235,NA,United States,US,Iowa,US-IA,IA,Lawton,0,IA84,NA,IA84,NA,NA,NA,50,2024-07-10T13:45:39Z
+7761,12IA,small_airport,Plueger Airfield,42.800498962402344,-96.13780212402344,1245,NA,United States,US,Iowa,US-IA,IA,Lemars,0,12IA,NA,12IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+347094,US-5004,small_airport,Matthias Field,43.3746,-92.308274,1304,NA,United States,US,Iowa,US-IA,IA,Lime Springs,0,IA62,NA,IA62,NA,NA,NA,50,2022-03-01T12:38:00Z
+17760,IA83,small_airport,Kohlhaas Airport,42.954883,-94.167638,1153,NA,United States,US,Iowa,US-IA,IA,Livermore,0,IA83,NA,IA83,NA,NA,NA,50,2022-12-20T11:45:32Z
+13278,6IA7,small_airport,R S Auto Airport,40.99039840698242,-91.74420166015624,770,NA,United States,US,Iowa,US-IA,IA,Lockridge,0,6IA7,NA,6IA7,NA,NA,NA,50,2008-07-13T21:58:22Z
+17687,IA08,small_airport,Riedesel Private Airport,42.278099060058594,-94.55169677734376,1150,NA,United States,US,Iowa,US-IA,IA,Lohrville,0,IA08,NA,IA08,NA,NA,NA,50,2008-06-13T14:30:04Z
+17746,IA69,small_airport,Sand Field Airport,42.8736000061,-95.8031005859,1520,NA,United States,US,Iowa,US-IA,IA,Marcus,0,IA69,NA,IA69,NA,NA,NA,50,2009-12-17T08:54:36Z
+12863,62IA,small_airport,Lerchs Airport,42.06669998168945,-91.3667984008789,941,NA,United States,US,Iowa,US-IA,IA,Martelle,0,62IA,NA,62IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+13764,73IA,small_airport,Harris Field,43.23559952,-93.20829773,1180,NA,United States,US,Iowa,US-IA,IA,Mason City,0,73IA,NA,73IA,NA,NA,NA,50,2010-01-23T11:28:23Z
+17733,IA56,small_airport,Farrar Airport,41.780452,-93.379735,916,NA,United States,US,Iowa,US-IA,IA,Maxwell,0,IA56,NA,IA56,NA,NA,NA,50,2024-07-10T13:42:18Z
+7205,0IA4,small_airport,Sharar Field,41.027897,-91.063442,700,NA,United States,US,Iowa,US-IA,IA,Mediapolis,0,0IA4,NA,0IA4,NA,NA,NA,50,2023-08-04T15:27:00Z
+17679,IA00,small_airport,Jukam's Landing Airport,41.52000045776367,-94.362701416015625,1230,NA,United States,US,Iowa,US-IA,IA,Menlo,0,IA00,NA,IA00,NA,NA,NA,50,2008-06-13T14:30:04Z
+7206,0IA5,small_airport,Moore Private Airport,40.87220001220703,-93.26270294189452,1060,NA,United States,US,Iowa,US-IA,IA,Millerton,0,0IA5,NA,0IA5,NA,NA,NA,50,2008-06-13T14:30:04Z
+14058,7C3,small_airport,Monona Municipal Airport,43.032903,-91.346586,1147,NA,United States,US,Iowa,US-IA,IA,Monona,0,K7C3,NA,7C3,NA,NA,NA,50,2022-03-01T13:21:29Z
+14059,7C5,small_airport,Sig Field,41.548301696777344,-92.53459930419922,929,NA,United States,US,Iowa,US-IA,IA,Montezuma,0,7C5,NA,7C5,NA,NA,NA,50,2008-06-13T14:30:04Z
+8771,1Y3,small_airport,Judge Lewis Field Mount Ayr Municipal Airport,40.705953,-94.220252,1265,NA,United States,US,Iowa,US-IA,IA,Mount Ayr,0,1Y3,NA,1Y3,NA,NA,NA,50,2023-05-22T15:51:15Z
+341068,US-3143,small_airport,Davis Airport,42.499741,-95.066805,1309,NA,United States,US,Iowa,US-IA,IA,Nemaha,0,IA26,NA,IA26,NA,NA,NA,50,2021-02-10T22:31:33Z
+8772,1Y5,small_airport,New Hampton Municipal Airport,43.08720016479492,-92.34320068359376,1173,NA,United States,US,Iowa,US-IA,IA,New Hampton,0,1Y5,NA,1Y5,NA,NA,NA,50,2008-06-13T14:30:04Z
+14134,7IA7,small_airport,Mitchell Field,43.083402,-92.311034,1160,NA,United States,US,Iowa,US-IA,IA,New Hampton,0,7IA7,NA,7IA7,NA,NA,NA,50,2022-12-20T12:48:54Z
+6819,05IA,small_airport,Spotts Field,43.13750076293945,-93.06829833984376,1155,NA,United States,US,Iowa,US-IA,IA,Nora Springs,0,05IA,NA,05IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+14129,7IA1,small_airport,White Pigeon Airport,41.493499755859375,-92.14820098876952,875,NA,United States,US,Iowa,US-IA,IA,North English,0,7IA1,NA,7IA1,NA,NA,NA,50,2008-06-13T14:30:04Z
+12330,5D2,small_airport,Northwood Municipal Airport,43.448299407958984,-93.20189666748048,1224,NA,United States,US,Iowa,US-IA,IA,Northwood,0,5D2,NA,5D2,NA,NA,NA,50,2008-06-13T14:30:04Z
+334345,US-1290,small_airport,Holt Farms Airport,43.42778,-93.272746,1274,NA,United States,US,Iowa,US-IA,IA,Northwood,0,IA51,NA,IA51,NA,NA,NA,50,2020-06-07T10:31:50Z
+351258,US-6341,small_airport,Loken Farm Airport,43.452918,-93.318601,1259,NA,United States,US,Iowa,US-IA,IA,Northwood,0,IA07,NA,IA07,NA,NA,NA,50,2022-12-20T12:28:23Z
+17680,IA01,small_airport,Ridge Airport,41.35139846801758,-95.466400146484375,1300,NA,United States,US,Iowa,US-IA,IA,Oakland,0,IA01,NA,IA01,NA,NA,NA,50,2008-06-13T14:30:04Z
+19587,KD02,small_airport,Osage Municipal Airport,43.292396,-92.795634,1168,NA,United States,US,Iowa,US-IA,IA,Osage,0,D02,NA,D02,NA,NA,NA,50,2023-08-09T14:33:56Z
+17710,IA32,small_airport,Pierson Field,41.325000762939,-92.717102050781,845,NA,United States,US,Iowa,US-IA,IA,Oskaloosa,0,NA,NA,IA32,NA,NA,IA32,50,2022-11-12T13:23:44Z
+17740,IA63,small_airport,Edgren Airport,41.25830078125,-92.55159759521484,840,NA,United States,US,Iowa,US-IA,IA,Oskaloosa,0,IA63,NA,IA63,NA,NA,NA,50,2008-06-13T14:30:04Z
+6763,04IA,small_airport,Middlekoop Airport,41.08829879760742,-92.05460357666016,801,NA,United States,US,Iowa,US-IA,IA,Packwood,0,04IA,NA,04IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+17726,IA48,small_airport,Kern Field,41.74169921875,-93.7251968383789,900,NA,United States,US,Iowa,US-IA,IA,Polk City,0,IA48,NA,IA48,NA,NA,NA,50,2008-06-13T14:30:04Z
+26325,Y16,small_airport,Dale Delight Airport,43.078899,-91.615196,1200,NA,United States,US,Iowa,US-IA,IA,Postville,0,IA45,NA,IA45,NA,NA,Y16,50,2017-11-18T11:42:35Z
+9899,2Y1,small_airport,Drake Airport,42.31669998168945,-93.416900634765625,1179,NA,United States,US,Iowa,US-IA,IA,Radcliffe,0,2Y1,NA,2Y1,NA,NA,NA,50,2008-06-13T14:30:04Z
+10494,3IA9,small_airport,Rake Airport,43.475799560546875,-93.9072036743164,1180,NA,United States,US,Iowa,US-IA,IA,Rake,0,3IA9,NA,3IA9,NA,NA,NA,50,2008-06-13T14:30:04Z
+8329,1IA6,small_airport,Aero-Lane Airport,40.8849983215332,-95.48529815673828,1134,NA,United States,US,Iowa,US-IA,IA,Randolph,0,1IA6,NA,1IA6,NA,NA,NA,50,2008-06-13T14:30:04Z
+324848,US-0637,small_airport,Peltz Field,43.265972,-94.562508,1280,NA,United States,US,Iowa,US-IA,IA,Ringsted,0,NA,NA,8Y8,NA,NA,2IA7,50,2017-11-10T01:32:34Z
+345299,8IA8,small_airport,Pfeifer Field,41.455074,-91.617259,715,NA,United States,US,Iowa,US-IA,IA,Riverside,0,8IA8,NA,8IA8,NA,NA,NA,50,2022-09-27T14:32:20Z
+17711,IA33,small_airport,Dad's Field,43.01190185546875,-93.242401123046875,1200,NA,United States,US,Iowa,US-IA,IA,Rockwell,0,IA33,NA,IA33,NA,NA,NA,50,2008-06-13T14:30:04Z
+345653,34IA,small_airport,Beck Airport,40.997189,-93.155608,1023,NA,United States,US,Iowa,US-IA,IA,Russell,0,34IA,NA,34IA,NA,NA,NA,50,2021-06-23T23:52:31Z
+7819,13IA,small_airport,Hillside Stables Airport,42.04570007324219,-90.19110107421876,760,NA,United States,US,Iowa,US-IA,IA,Sabula,0,13IA,NA,13IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+21075,KSKI,small_airport,Sac City Municipal Airport,42.37910079956055,-94.97969818115234,1250,NA,United States,US,Iowa,US-IA,IA,Sac City,0,KSKI,NA,SKI,NA,NA,NA,50,2008-06-13T14:30:04Z
+345322,42IA,small_airport,Lakeport Farms Airport,42.261494,-96.289523,1077,NA,United States,US,Iowa,US-IA,IA,Salix,0,42IA,NA,42IA,NA,NA,NA,50,2021-06-09T19:38:52Z
+355064,07IA,small_airport,Hoskins Landing,40.647888,-95.02135,971,NA,United States,US,Iowa,US-IA,IA,Shambaugh,0,07IA,NA,07IA,NA,NA,NA,50,2022-06-20T10:15:39Z
+355115,US-6887,small_airport,SJ Airfield,42.880647,-93.31519,1209,NA,United States,US,Iowa,US-IA,IA,Sheffield,0,IA94,NA,IA94,NA,NA,NA,50,2022-06-21T22:00:12Z
+345999,29IA,small_airport,Hilltop Airport,40.75575,-95.623455,1120,NA,United States,US,Iowa,US-IA,IA,Sidney,0,29IA,NA,29IA,NA,NA,NA,50,2021-06-29T16:14:59Z
+355989,US-7056,small_airport,Paradise Mountain Airport,40.74801,-95.67094,1150,NA,United States,US,Iowa,US-IA,IA,Sidney,0,IA02,NA,IA02,NA,NA,NA,50,2022-08-03T15:32:07Z
+17703,IA25,small_airport,Bartlett Field,41.80059814453125,-91.43990325927734,820,NA,United States,US,Iowa,US-IA,IA,Solon,0,IA25,NA,IA25,NA,NA,NA,50,2008-06-13T14:30:04Z
+352233,25IA,small_airport,Virl B Deal Airfield,43.395073,-92.963744,1180,NA,United States,US,Iowa,US-IA,IA,St. Ansgar,0,25IA,NA,25IA,NA,NA,NA,50,2022-02-01T22:23:14Z
+345815,US-4574,small_airport,Workman Airfield,41.6099,-90.858951,716,NA,United States,US,Iowa,US-IA,IA,Stockton,0,IA68,NA,IA68,NA,NA,NA,50,2021-06-26T11:05:20Z
+14868,8C2,small_airport,Sully Municipal Airport,41.574100494384766,-92.84660339355467,922,NA,United States,US,Iowa,US-IA,IA,Sully,0,8C2,NA,8C2,NA,NA,NA,50,2008-06-13T14:30:04Z
+14869,8C5,small_airport,Toledo Municipal Airport,41.988612,-92.548002,960,NA,United States,US,Iowa,US-IA,IA,Toledo,0,K8C5,NA,8C5,NA,https://en.wikipedia.org/wiki/Toledo_Municipal_Airport_(Iowa),NA,50,2024-05-19T02:58:52Z
+14870,8C6,small_airport,Traer Municipal Airport,42.19919967651367,-92.45800018310548,892,NA,United States,US,Iowa,US-IA,IA,Traer,0,8C6,NA,8C6,NA,NA,NA,50,2008-06-13T14:30:04Z
+511008,US-8003,small_airport,Meyer Agri-Air Van Horne Airport,42.00217,-92.12089,930,NA,United States,US,Iowa,US-IA,IA,Van Horne,0,NA,NA,NA,NA,NA,NA,50,2023-08-11T12:13:24Z
+6873,06IA,small_airport,Rich Field,41.841400146484375,-91.83429718017578,880,NA,United States,US,Iowa,US-IA,IA,Walford,0,06IA,NA,06IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+10901,3Y0,small_airport,Wall Lake Municipal Airport,42.26240158081055,-95.0906982421875,1224,NA,United States,US,Iowa,US-IA,IA,Wall Lake,0,3Y0,NA,3Y0,NA,NA,NA,50,2008-06-13T14:30:04Z
+7662,10IA,small_airport,Flyers Airport,42.41669845581055,-92.2501983642578,830,NA,United States,US,Iowa,US-IA,IA,Waterloo,0,10IA,NA,10IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+8136,19IA,small_airport,Ancam Antique Airfield,40.8568000793457,-91.20379638671876,690,NA,United States,US,Iowa,US-IA,IA,West Burlington,0,19IA,NA,19IA,NA,NA,NA,50,2008-06-13T14:30:04Z
+11441,4IA2,small_airport,Walker Field,41.585629,-91.219912,715,NA,United States,US,Iowa,US-IA,IA,West Liberty,0,4IA2,NA,4IA2,NA,NA,NA,50,2023-08-09T10:50:24Z
+18753,K3Y2,small_airport,George L Scott Municipal Airport,42.98509979248047,-91.79060363769533,1232,NA,United States,US,Iowa,US-IA,IA,West Union,0,K3Y2,NA,3Y2,NA,NA,NA,50,2008-06-13T14:30:04Z
+17735,IA58,small_airport,B-8 Farms Airport,42.1150016784668,-96.1719970703125,1063,NA,United States,US,Iowa,US-IA,IA,Whiting,0,IA58,NA,IA58,NA,NA,NA,50,2008-06-13T14:30:04Z
+332501,59IA,small_airport,Bellevue Farms Airport,41.622344,-92.062401,880,NA,United States,US,Iowa,US-IA,IA,Williamsburg,0,59IA,NA,59IA,NA,NA,NA,50,2019-10-19T16:11:42Z
+550581,US-8994,small_airport,Marine Farms Field,41.556389,-90.980424,750,NA,United States,US,Iowa,US-IA,IA,Wilton,0,33IA,NA,33IA,NA,NA,NA,50,2024-10-05T06:16:49Z
+14941,8IA2,small_airport,Port Paradise Farms Airport,41.17390060424805,-91.36180114746094,700,NA,United States,US,Iowa,US-IA,IA,Winfield,0,8IA2,NA,8IA2,NA,NA,NA,50,2008-06-13T14:30:04Z
+338762,US-2426,small_airport,Elf Run Airport,41.352361,-94.211667,1227,NA,United States,US,Iowa,US-IA,IA,Winterset,0,IA76,NA,IA76,NA,NA,NA,50,2021-01-06T21:54:24Z
+347093,US-5003,small_airport,Hall Farms Airport,41.347967,-94.121403,1160,NA,United States,US,Iowa,US-IA,IA,Winterset,0,IA61,NA,IA61,NA,NA,NA,50,2021-08-17T13:13:35Z
+10902,3Y4,small_airport,Woodbine Municipal Airport,41.736099,-95.683601,1068,NA,United States,US,Iowa,US-IA,IA,Woodbine,0,K3Y4,NA,3Y4,NA,https://en.wikipedia.org/wiki/Woodbine_Municipal_Airport_(Iowa),NA,50,2024-07-10T15:07:04Z
+17708,IA30,small_airport,Kleis Airport,42.29999923706055,-90.7500991821289,1050,NA,United States,US,Iowa,US-IA,IA,Zwingle,0,IA30,NA,IA30,NA,NA,NA,50,2008-06-13T14:30:04Z
+17744,IA67,heliport,Cass County Memorial Hospital Heliport,41.401100158691406,-94.9918975830078,1250,NA,United States,US,Iowa,US-IA,IA,Atlantic,0,IA67,NA,IA67,NA,NA,NA,25,2008-06-13T14:30:04Z
+7203,0IA2,heliport,Audubon County Memorial Hospital Heliport,41.71549987792969,-94.9385986328125,1320,NA,United States,US,Iowa,US-IA,IA,Audubon,0,0IA2,NA,0IA2,NA,NA,NA,25,2008-06-13T14:30:04Z
+12901,63IA,heliport,Davis County Hospital Heliport,40.759300231933594,-92.415496826171875,890,NA,United States,US,Iowa,US-IA,IA,Bloomfield,0,63IA,NA,63IA,NA,NA,NA,25,2008-06-13T14:30:04Z
+6651,02IA,heliport,Boone County Hospital Heliport,42.05609893798828,-93.87799835205078,1160,NA,United States,US,Iowa,US-IA,IA,Boone,0,02IA,NA,02IA,NA,NA,NA,25,2008-06-13T14:30:04Z
+7202,0IA1,heliport,St Anthony Regional Hospital Heliport,42.05830001831055,-94.86830139160156,1300,NA,United States,US,Iowa,US-IA,IA,Carroll,0,0IA1,NA,0IA1,NA,NA,NA,25,2008-06-13T14:30:04Z
+17749,IA72,heliport,Mercy Hospital Heliport,41.97859954833984,-91.65519714355467,850,NA,United States,US,Iowa,US-IA,IA,Cedar Rapids,0,IA72,NA,IA72,NA,NA,NA,25,2008-06-13T14:30:04Z
+17750,IA73,heliport,St Lukes Hospital Emergency Heliport,41.98469924926758,-91.6615982055664,759,NA,United States,US,Iowa,US-IA,IA,Cedar Rapids,0,IA73,NA,IA73,NA,NA,NA,25,2008-06-13T14:30:04Z
+17698,IA19,heliport,Lucas County Health Center Heliport,41.02750015258789,-93.302398681640625,1049,NA,United States,US,Iowa,US-IA,IA,Chariton,0,IA19,NA,IA19,NA,NA,NA,25,2008-06-13T14:30:04Z
+11442,4IA3,heliport,Floyd County Memorial Hospital Heliport,43.05080032348633,-92.68440246582033,1146,NA,United States,US,Iowa,US-IA,IA,Charles City,0,4IA3,NA,4IA3,NA,NA,NA,25,2008-06-13T14:30:04Z
+17692,IA13,heliport,Cherokee Regional Medical Center Heliport,42.0853004456,-95.5699996948,900,NA,United States,US,Iowa,US-IA,IA,Cherokee,0,IA13,NA,IA13,NA,NA,NA,25,2009-12-17T09:09:31Z
+11444,4IA5,heliport,Iowa Speciality Hospital Heliport,42.721132,-93.734436,1162,NA,United States,US,Iowa,US-IA,IA,Clarion,0,4IA5,NA,4IA5,NA,NA,Community Memorial Hospital Heliport,25,2017-04-30T15:44:08Z
+14132,7IA5,heliport,Mercy Medical Center - Clinton Heliport,41.860886,-90.190349,708,NA,United States,US,Iowa,US-IA,IA,Clinton,0,7IA5,NA,7IA5,NA,NA,Samaritan Hospital North Heliport,25,2017-05-07T18:15:23Z
+17724,IA46,heliport,Wayne County Hospital Heliport,40.7578010559082,-93.31849670410156,1093,NA,United States,US,Iowa,US-IA,IA,Corydon,0,IA46,NA,IA46,NA,NA,NA,25,2008-06-13T14:30:04Z
+13273,6IA2,heliport,Jennie Edmundson Hospital Heliport,41.26919937133789,-95.835296630859375,1000,NA,United States,US,Iowa,US-IA,IA,Council Bluffs,0,6IA2,NA,6IA2,NA,NA,NA,25,2008-06-13T14:30:04Z
+11439,4IA0,heliport,Greater Community Hospital Heliport,41.07220077514648,-94.39440155029295,1291,NA,United States,US,Iowa,US-IA,IA,Creston,0,4IA0,NA,4IA0,NA,NA,NA,25,2008-06-13T14:30:04Z
+7208,0IA7,heliport,Cromwell Heliport,41.03889846801758,-94.46690368652344,1300,NA,United States,US,Iowa,US-IA,IA,Cromwell,0,0IA7,NA,0IA7,NA,NA,NA,25,2008-06-13T14:30:04Z
+9427,2IA0,heliport,Genesis Medical Center East Campus Heliport,41.54169845581055,-90.55650329589844,677,NA,United States,US,Iowa,US-IA,IA,Davenport,0,2IA0,NA,2IA0,NA,NA,NA,25,2008-06-13T14:30:04Z
+17758,IA81,heliport,Genesis Medical Center West Campus Heliport,41.54280090332031,-90.59239959716795,169,NA,United States,US,Iowa,US-IA,IA,Davenport,0,IA81,NA,IA81,NA,NA,NA,25,2008-06-13T14:30:04Z
+17683,IA04,heliport,Winneshiek Medical Center Heliport,43.29410172,-91.77449799,892,NA,United States,US,Iowa,US-IA,IA,Decorah,0,IA04,NA,IA04,NA,NA,NA,25,2010-01-26T10:57:45Z
+10488,3IA3,heliport,Des Moines General Hospital Heliport,41.594200134277344,-93.600799560546875,889,NA,United States,US,Iowa,US-IA,IA,Des Moines,0,3IA3,NA,3IA3,NA,NA,NA,25,2008-06-13T14:30:04Z
+13275,6IA4,heliport,Polk County Hospital Heliport,41.61669921875,-93.6406021118164,877,NA,United States,US,Iowa,US-IA,IA,Des Moines,0,6IA4,NA,6IA4,NA,NA,NA,25,2008-06-13T14:30:04Z
+17741,IA64,heliport,Iowa Methodist Medical Center Heliport,41.58940124511719,-93.6331024169922,990,NA,United States,US,Iowa,US-IA,IA,Des Moines,0,IA64,NA,IA64,NA,NA,NA,25,2008-06-13T14:30:04Z
+17759,IA82,heliport,Mercy Hospital Medical Center Private Heliport,41.599998474121094,-93.621002197265625,894,NA,United States,US,Iowa,US-IA,IA,Des Moines,0,IA82,NA,IA82,NA,NA,NA,25,2008-06-13T14:30:04Z
+17775,IA98,heliport,Iowa Lutheran Hospital Life Flight Heliport,41.60219955444336,-93.6104965209961,856,NA,United States,US,Iowa,US-IA,IA,Des Moines,0,IA98,NA,IA98,NA,NA,NA,25,2008-06-13T14:30:04Z
+8325,1IA2,heliport,Camp Tahigwa Landing Site Heliport,43.43889999389648,-91.56739807128906,760,NA,United States,US,Iowa,US-IA,IA,Dorchester,0,1IA2,NA,1IA2,NA,NA,NA,25,2008-06-13T14:30:04Z
+9428,2IA1,heliport,Finley Hospital Heliport,42.49580001831055,-90.68489837646484,900,NA,United States,US,Iowa,US-IA,IA,Dubuque,0,2IA1,NA,2IA1,NA,NA,NA,25,2008-06-13T14:30:04Z
+17689,IA10,heliport,MercyOne Dubuque Medical Center Heliport,42.49165,-90.675864,1050,NA,United States,US,Iowa,US-IA,IA,Dubuque,0,IA10,NA,IA10,NA,NA,Mercy Health Center,25,2019-07-13T19:53:24Z
+9429,2IA2,heliport,MercyOne Elkader Medical Center Heliport,42.860102,-91.4151417,774,NA,United States,US,Iowa,US-IA,IA,Elkader,0,2IA2,NA,2IA2,NA,NA,Central Community Hospital,25,2019-07-13T20:01:48Z
+17756,IA79,heliport,Palo Alto County Hospital Heliport,43.101898193359375,-94.70469665527344,1210,NA,United States,US,Iowa,US-IA,IA,Emmetsburg,0,IA79,NA,IA79,NA,NA,NA,25,2008-06-13T14:30:04Z
+14133,7IA6,heliport,Jefferson County Hospital Heliport,41.00310134887695,-91.9521026611328,768,NA,United States,US,Iowa,US-IA,IA,Fairfield,0,7IA6,NA,7IA6,NA,NA,NA,25,2008-06-13T14:30:04Z
+17751,IA74,heliport,Trinity Regional Medical Center Heliport,42.4925003052,-94.1919021606,1000,NA,United States,US,Iowa,US-IA,IA,Fort Dodge,0,IA74,NA,IA74,NA,NA,NA,25,2009-12-08T20:09:10Z
+13845,75IA,heliport,Adair County Memorial Hospital Heliport,41.30400085449219,-94.45099639892578,1310,NA,United States,US,Iowa,US-IA,IA,Greenfield,0,75IA,NA,75IA,NA,NA,NA,25,2008-06-13T14:30:04Z
+17688,IA09,heliport,Grinnell Regional Medical Center Heliport,41.725799560546875,-92.70349884033205,18,NA,United States,US,Iowa,US-IA,IA,Grinnell,0,IA09,NA,IA09,NA,NA,NA,25,2008-06-13T14:30:04Z
+9432,2IA5,heliport,Grape Community Hospital Heliport,40.622501373291016,-95.64969635009766,961,NA,United States,US,Iowa,US-IA,IA,Hamburg,0,2IA5,NA,2IA5,NA,NA,NA,25,2008-06-13T14:30:04Z
+17732,IA55,heliport,Myrtue Memorial Hospital Heliport,41.649200439453125,-95.32420349121094,1231,NA,United States,US,Iowa,US-IA,IA,Harlan,0,IA55,NA,IA55,NA,NA,NA,25,2008-06-13T14:30:04Z
+12386,5IA9,heliport,Community Memorial Health Center Heliport,43.18360137939453,-95.4897003173828,1474,NA,United States,US,Iowa,US-IA,IA,Hartley,0,5IA9,NA,5IA9,NA,NA,NA,25,2008-06-13T14:30:04Z
+15561,98IA,heliport,Hawarden Heliport,42.998468,-96.481038,1174,NA,United States,US,Iowa,US-IA,IA,Hawarden,0,NA,NA,NA,NA,NA,98IA,25,2022-07-15T21:02:41Z
+17767,IA90,heliport,Humboldt County Memorial Hospital Heliport,42.733022,-94.231147000000007,1102,NA,United States,US,Iowa,US-IA,IA,Humboldt,0,IA90,NA,IA90,NA,NA,NA,25,2022-12-20T11:38:45Z
+17715,IA37,heliport,Horn Memorial Hospital Heliport,42.33890151977539,-95.45999908447266,1325,NA,United States,US,Iowa,US-IA,IA,Ida Grove,0,IA37,NA,IA37,NA,NA,NA,25,2008-06-13T14:30:04Z
+17748,IA71,heliport,Indianola Heliport,41.35969924926758,-93.55909729003906,900,NA,United States,US,Iowa,US-IA,IA,Indianola,0,IA71,NA,IA71,NA,NA,NA,25,2008-06-13T14:30:04Z
+8330,1IA7,heliport,University of Iowa Hospitals & Clinic Heliport,41.65999984741211,-91.547698974609375,840,NA,United States,US,Iowa,US-IA,IA,Iowa City,0,1IA7,NA,1IA7,NA,NA,NA,25,2008-07-13T21:58:20Z
+17769,IA92,heliport,University of Iowa Hospitals & Clinic No2 Heliport,41.66749954223633,-91.6001968383789,790,NA,United States,US,Iowa,US-IA,IA,Iowa City,0,IA92,NA,IA92,NA,NA,NA,25,2008-07-13T21:58:24Z
+11440,4IA1,heliport,Ellsworth Municipal Hospital Heliport,42.52470016479492,-93.242401123046875,1138,NA,United States,US,Iowa,US-IA,IA,Iowa Falls,0,4IA1,NA,4IA1,NA,NA,NA,25,2008-07-13T21:58:21Z
+10487,3IA2,heliport,Greene County Medical Center Heliport,42.016700744628906,-94.38770294189452,1050,NA,United States,US,Iowa,US-IA,IA,Jefferson,0,3IA2,NA,3IA2,NA,NA,NA,25,2008-06-13T14:30:04Z
+10493,3IA8,heliport,UnityPoint Keokuk Heliport,40.40721,-91.387968,617,NA,United States,US,Iowa,US-IA,IA,Keokuk,0,3IA8,NA,3IA8,NA,NA,KAH Heliport,25,2021-10-17T16:38:17Z
+7201,0IA0,heliport,Knoxville Area Community Hospital Heliport,41.316898345947266,-93.09600067138672,927,NA,United States,US,Iowa,US-IA,IA,Knoxville,0,0IA0,NA,0IA0,NA,NA,NA,25,2008-06-13T14:30:04Z
+9433,2IA6,heliport,Stewart Memorial Hospital Heliport,42.27000045776367,-94.7335968017578,1243,NA,United States,US,Iowa,US-IA,IA,Lake City,0,2IA6,NA,2IA6,NA,NA,NA,25,2008-06-13T14:30:04Z
+13271,6IA0,heliport,Decatur County Hospital Heliport,40.7505989074707,-93.73580169677734,1100,NA,United States,US,Iowa,US-IA,IA,Leon,0,6IA0,NA,6IA0,NA,NA,NA,25,2008-06-13T14:30:04Z
+13279,6IA8,heliport,Mmsc Heliport,42.04859924316406,-92.9072036743164,920,NA,United States,US,Iowa,US-IA,IA,Marshalltown,0,6IA8,NA,6IA8,NA,NA,NA,25,2008-06-13T14:30:04Z
+17765,IA88,heliport,Quiet Valley Heliport,41.704200744628906,-90.46820068359376,504,NA,United States,US,Iowa,US-IA,IA,Mc Causland,0,IA88,NA,IA88,NA,NA,NA,25,2008-06-13T14:30:04Z
+7210,0IA9,heliport,Army Reserve Heliport,40.83340072631836,-91.30010223388672,725,NA,United States,US,Iowa,US-IA,IA,Middleton,0,0IA9,NA,0IA9,NA,NA,NA,25,2008-06-13T14:30:04Z
+9430,2IA3,heliport,Medical Heliport,40.96200180053711,-91.55989837646484,734,NA,United States,US,Iowa,US-IA,IA,Mount Pleasant,0,2IA3,NA,2IA3,NA,NA,NA,25,2008-06-13T14:30:04Z
+14939,8IA0,heliport,Unity Healthcare Heliport,41.4336013794,-91.0541992188,633,NA,United States,US,Iowa,US-IA,IA,Muscatine,0,8IA0,NA,8IA0,NA,NA,NA,25,2009-12-11T13:07:47Z
+8328,1IA5,heliport,Story County Hospital Heliport,42.017493,-93.453026,995,NA,United States,US,Iowa,US-IA,IA,Nevada,0,1IA5,NA,1IA5,NA,NA,SCH Heliport,25,2024-07-03T22:16:37Z
+12378,5IA0,heliport,Skiff Medical Center Heliport,41.704200744628906,-93.05159759521484,947,NA,United States,US,Iowa,US-IA,IA,Newton,0,5IA0,NA,5IA0,NA,NA,NA,25,2008-06-13T14:30:04Z
+17734,IA57,heliport,Mercy Hospital Heliport,42.67390060424805,-91.90180206298828,1119,NA,United States,US,Iowa,US-IA,IA,Oelwein,0,IA57,NA,IA57,NA,NA,NA,25,2008-06-13T14:30:04Z
+9435,2IA8,heliport,Burgess Health Center Heliport,42.0264015198,-96.1063995361,1049,NA,United States,US,Iowa,US-IA,IA,Onawa,0,2IA8,NA,2IA8,NA,NA,NA,25,2009-12-07T16:55:10Z
+13280,6IA9,heliport,Clarke County Hospital Heliport,41.026100158691406,-93.76799774169922,1134,NA,United States,US,Iowa,US-IA,IA,Osceola,0,6IA9,NA,6IA9,NA,NA,NA,25,2008-06-13T14:30:04Z
+17712,IA34,heliport,Mahaska County Hospital Heliport,41.300498962402344,-93.62989807128906,800,NA,United States,US,Iowa,US-IA,IA,Oskaloosa,0,IA34,NA,IA34,NA,NA,NA,25,2008-06-13T14:30:04Z
+10491,3IA6,heliport,Ottumwa Hospital Heliport,41.028900146484375,-92.39070129394533,845,NA,United States,US,Iowa,US-IA,IA,Ottumwa,0,3IA6,NA,3IA6,NA,NA,NA,25,2008-06-13T14:30:04Z
+10492,3IA7,heliport,Daec Heliport,42.101898193359375,-91.777099609375,753,NA,United States,US,Iowa,US-IA,IA,Palo,0,3IA7,NA,3IA7,NA,NA,NA,25,2008-06-13T14:30:04Z
+14135,7IA9,heliport,Pella Community Hospital Heliport,41.412498474121094,-92.90989685058594,836,NA,United States,US,Iowa,US-IA,IA,Pella,0,7IA9,NA,7IA9,NA,NA,NA,25,2008-06-13T14:30:04Z
+17773,IA96,heliport,Mercy One Primghar Medical Center Heliport,43.088299,-95.623901,1520,NA,United States,US,Iowa,US-IA,IA,Primghar,0,IA96,NA,IA96,NA,NA,Baum-Harmon Memorial Hospital,25,2019-12-14T14:25:05Z
+17768,IA91,heliport,Montgomery County Memorial Heliport,41.027198791503906,-95.2147979736328,1181,NA,United States,US,Iowa,US-IA,IA,Red Oak,0,IA91,NA,IA91,NA,NA,NA,25,2008-06-13T14:30:04Z
+12385,5IA8,heliport,Sanford Merrill Medical Center Heliport,43.4239006042,-96.1719970703,1360,NA,United States,US,Iowa,US-IA,IA,Rock Rapids,0,5IA8,NA,5IA8,NA,NA,NA,25,2009-12-11T08:05:29Z
+14940,8IA1,heliport,Hegg Memorial Hospital Heliport,43.201215,-96.283547,1256,NA,United States,US,Iowa,US-IA,IA,Rock Valley,0,8IA1,NA,8IA1,NA,NA,NA,25,2020-02-21T19:22:43Z
+13272,6IA1,heliport,Loring Hospital Heliport,42.41939926147461,-94.9792022705078,1219,NA,United States,US,Iowa,US-IA,IA,Sac City,0,6IA1,NA,6IA1,NA,NA,NA,25,2008-06-13T14:30:04Z
+8941,23IA,heliport,Shenandoah Hospital Heliport,40.75279998779297,-95.368896484375,1039,NA,United States,US,Iowa,US-IA,IA,Shenandoah,0,23IA,NA,23IA,NA,NA,NA,25,2008-06-13T14:30:04Z
+17718,IA40,heliport,Osceola Community Hospital Heliport,43.40999984741211,-95.74250030517578,1537,NA,United States,US,Iowa,US-IA,IA,Sibley,0,IA40,NA,IA40,NA,NA,NA,25,2008-06-13T14:30:04Z
+14596,83IA,heliport,Keokuk County Health Center Heliport,41.3224983215332,-92.20549774169922,753,NA,United States,US,Iowa,US-IA,IA,Sigourney,0,83IA,NA,83IA,NA,NA,NA,25,2008-06-13T14:30:04Z
+12379,5IA2,heliport,Mercy One Medical Center Nr 2 Heliport,42.497226,-96.401478,1170,NA,United States,US,Iowa,US-IA,IA,Sioux City,0,5IA2,NA,5IA2,NA,NA,Marian Health Center Nr 2,25,2020-02-25T01:45:53Z
+13274,6IA3,heliport,Saint Luke's Medical Center Heliport,42.51969909667969,-96.406097412109375,1286,NA,United States,US,Iowa,US-IA,IA,Sioux City,0,6IA3,NA,6IA3,NA,NA,NA,25,2008-06-13T14:30:04Z
+8326,1IA3,heliport,Spencer Municipal Hospital Heliport,43.1505012512207,-95.14219665527344,1318,NA,United States,US,Iowa,US-IA,IA,Spencer,0,1IA3,NA,1IA3,NA,NA,NA,25,2008-07-13T21:58:20Z
+17776,IA99,heliport,Dickinson County Memorial Hospital Heliport,43.41749954223633,-95.1239013671875,1455,NA,United States,US,Iowa,US-IA,IA,Spirit Lake,0,IA99,NA,IA99,NA,NA,NA,25,2008-06-13T14:30:04Z
+17755,IA78,heliport,Virginia Gay Hospital Heliport,42.17359924,-92.01239777,245,NA,United States,US,Iowa,US-IA,IA,Vinton,0,IA78,NA,IA78,NA,NA,NA,25,2010-01-23T11:28:32Z
+10485,3IA0,heliport,Washington County Hospital Heliport,41.28919982910156,-91.6876983642578,760,NA,United States,US,Iowa,US-IA,IA,Washington,0,3IA0,NA,3IA0,NA,NA,NA,25,2008-06-13T14:30:04Z
+9431,2IA4,heliport,CMC at West Ninth Heliport,42.461005,-92.34468,922,NA,United States,US,Iowa,US-IA,IA,Waterloo,0,2IA4,NA,2IA4,NA,NA,NA,25,2021-10-11T01:29:53Z
+17707,IA29,heliport,Allen Memorial Hospital Heliport,42.52690124511719,-92.339599609375,899,NA,United States,US,Iowa,US-IA,IA,Waterloo,0,IA29,NA,IA29,NA,NA,NA,25,2008-06-13T14:30:04Z
+17772,IA95,heliport,Hcph Heliport,42.45890045166016,-93.82379913330078,1080,NA,United States,US,Iowa,US-IA,IA,Webster City,0,IA95,NA,IA95,NA,NA,NA,25,2008-06-13T14:30:04Z
+11117,45IA,heliport,Great River Medical Center Heliport,40.810613,-91.173903,700,NA,United States,US,Iowa,US-IA,IA,West Burlington,0,45IA,NA,45IA,NA,NA,NA,25,2022-02-16T12:28:33Z
+17766,IA89,heliport,Woodward State Hospital Heliport,41.871700286865234,-93.914398193359375,1060,NA,United States,US,Iowa,US-IA,IA,Woodward,0,IA89,NA,IA89,NA,NA,NA,25,2008-06-13T14:30:04Z
+345307,US-4404,heliport,Monroe County Hospital Heliport,41.043049,-92.7977,957,NA,United States,US,Iowa,US-IA,IA,Albia,0,IA22,NA,IA22,NA,NA,NA,0,2021-06-09T15:09:15Z
+324375,US-0310,heliport,Jones Regional Medical Center Heliport,42.100962,-91.2618444,838,NA,United States,US,Iowa,US-IA,IA,Anamosa,0,IA52,NA,IA52,NA,NA,NA,0,2017-07-09T18:49:23Z
+351262,US-6343,heliport,MercyOne Cedar Falls Medical Center Heliport,42.533884,-92.458416,931,NA,United States,US,Iowa,US-IA,IA,Cedar Falls,0,IA66,NA,IA66,NA,NA,NA,0,2022-01-06T15:42:48Z
+353812,US-6774,heliport,Regional Health Services of Howard County Heliport,43.380684,-92.117803,1326,NA,United States,US,Iowa,US-IA,IA,Cresco,0,0IA6,NA,0IA6,NA,NA,NA,0,2022-03-29T21:24:40Z
+347085,IA53,heliport,MercyOne Dyersville Heliport,42.476711,-91.130117,960,NA,United States,US,Iowa,US-IA,IA,Dyersville,0,IA53,NA,IA53,NA,NA,NA,0,2021-08-16T16:56:20Z
+346733,US-4914,heliport,Air Evac 59 Heliport,40.62671,-91.38473,556,NA,United States,US,Iowa,US-IA,IA,Fort Madison,0,NA,NA,NA,NA,NA,NA,0,2021-07-29T01:09:52Z
+505726,US-7426,heliport,Grundy County Memorial Hospital Heliport,42.359582,-92.762935,1028,NA,United States,US,Iowa,US-IA,IA,"Grundy Center,",0,IA28,NA,IA28,NA,NA,NA,0,2022-12-24T01:25:46Z
+324658,US-0607,heliport,Guttenberg Municipal Hospital Heliport,42.786033,-91.099941,655,NA,United States,US,Iowa,US-IA,IA,Guttenberg,0,IA60,NA,IA60,NA,NA,NA,0,2017-08-06T22:36:37Z
+322061,US-0394,heliport,Blackberry Ridge Heliport,41.6934,-91.5223639,713,NA,United States,US,Iowa,US-IA,IA,Iowa City,0,IA03,NA,IA03,NA,NA,NA,0,2017-02-05T11:00:44Z
+352770,US-6490,heliport,Van Buren County Hospital Heliport,40.73689,-91.95736,624,NA,United States,US,Iowa,US-IA,IA,Keosauqua,0,NA,NA,NA,NA,NA,NA,0,2022-02-16T12:24:40Z
+347735,US-5183,heliport,Jackson County Regional Health Center Heliport,42.046308,-90.656858,752,NA,United States,US,Iowa,US-IA,IA,Maquoketa,0,IA65,NA,IA65,NA,NA,NA,0,2021-09-19T11:00:43Z
+352231,22IA,heliport,Marengo Memorial Hospital Heliport,41.802079,-92.072296,739,NA,United States,US,Iowa,US-IA,IA,Marengo,0,22IA,NA,22IA,NA,NA,NA,0,2022-02-01T21:50:54Z
+529884,US-8472,heliport,Mercy Marion Emergency Department Heliport,42.03463,-91.57378,861,NA,United States,US,Iowa,US-IA,IA,Marion,0,28IA,NA,28IA,NA,NA,NA,0,2024-05-18T17:24:16Z
+355672,US-6956,heliport,Unity Point Marshalltown Heliport,42.000789,-92.915239,994,NA,United States,US,Iowa,US-IA,IA,Marshalltown,0,98IA,NA,98IA,NA,NA,NA,0,2022-07-16T14:57:35Z
+347084,US-5001,heliport,MercyOne North Iowa Medical Center Heliport,43.150401,-93.21532,1147,NA,United States,US,Iowa,US-IA,IA,Mason City,0,IA47,NA,IA47,NA,NA,NA,0,2021-08-16T16:42:58Z
+334340,US-1287,heliport,Ringgold County Heliport,40.719904,-94.22236,1218,NA,United States,US,Iowa,US-IA,IA,Mountt Ayr,0,IA49,NA,IA49,NA,NA,NA,0,2020-06-07T00:09:31Z
+333424,US-1200,heliport,Mercyone New Hampton Medical Center Heliport,43.06335,-92.32208,1159,NA,United States,US,Iowa,US-IA,IA,New Hampton,0,IA50,NA,IA50,NA,NA,NA,0,2020-02-23T00:50:24Z
+430232,US-7130,heliport,Iowa Speedway Heliport,41.67473,-93.01357,901,NA,United States,US,Iowa,US-IA,IA,Newton,0,NA,NA,NA,NA,NA,NA,0,2022-09-27T14:24:12Z
+351261,US-6342,heliport,Petter Heliport,41.233881,-94.356047,1332,NA,United States,US,Iowa,US-IA,IA,Orient,0,IA14,NA,IA14,NA,NA,NA,0,2022-01-06T15:30:07Z
+342457,US-3390,heliport,Merrill Pioneer Community Hospital Heliport,43.42178,-96.17915,1397,NA,United States,US,Iowa,US-IA,IA,Rock Rapids,0,IA39,NA,IA39,NA,NA,NA,0,2021-03-27T22:41:15Z
+346412,US-4781,heliport,Sioux Center Health Heliport,43.06877,-96.159275,1397,NA,United States,US,Iowa,US-IA,IA,Sioux Center,0,IA06,NA,IA06,NA,NA,NA,0,2021-07-14T10:52:25Z
+348572,US-5476,heliport,MercyOne Waterloo Medical Center Heliport,42.46115,-92.347008,940,NA,United States,US,Iowa,US-IA,IA,Waterloo,0,IA75,NA,IA75,NA,NA,NA,0,2021-10-11T01:18:34Z
+354128,US-6811,heliport,Veterans Memorial Hospital Heliport,43.268011,-91.473799,1258,NA,United States,US,Iowa,US-IA,IA,Waukon,0,IA80,NA,IA80,NA,NA,NA,0,2022-04-23T11:42:08Z
+345813,US-4573,heliport,Gundersen Palmer Lutheran Hospital Heliport,42.968917,-91.800867,1151,NA,United States,US,Iowa,US-IA,IA,West Union,0,IA15,NA,IA15,NA,NA,NA,0,2021-06-26T10:46:40Z
