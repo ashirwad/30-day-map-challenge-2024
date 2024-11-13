@@ -67,3 +67,11 @@ The image shows a comparison between AI-generated map of Iowa State University C
 
 [Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day09-ai.html)
 [View Data Source](https://stablediffusionweb.com/)
+
+## Day 10 - Pen & Paper
+The image shows a sketchy map of ZIP Codes covering Ames, IA.
+
+![Sketchy Ames ZIPs](map-previews/day10-pen-paper.png)
+
+[Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day10-pen-paper.html)
+[View Data Source](https://cran.r-project.org/web/packages/tigris/index.html)

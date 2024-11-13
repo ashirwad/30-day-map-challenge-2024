@@ -1062,6 +1062,18 @@
         "yaml"
       ]
     },
+    "roughsf": {
+      "Package": "roughsf",
+      "Version": "1.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "1f529ed6e0d20996d84b7116171e6a2d",
+      "Requirements": [
+        "htmlwidgets",
+        "jsonlite",
+        "sf"
+      ]
+    },
     "rprojroot": {
       "Package": "rprojroot",
       "Version": "2.0.4",
