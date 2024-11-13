@@ -1187,6 +1187,20 @@
         "geometries"
       ]
     },
+    "slideview": {
+      "Package": "slideview",
+      "Version": "0.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "bad75353452334374331ca1100470edf",
+      "Requirements": [
+        "htmltools",
+        "htmlwidgets",
+        "lattice",
+        "raster",
+        "viridisLite"
+      ]
+    },
     "slippymath": {
       "Package": "slippymath",
       "Version": "0.3.1",
