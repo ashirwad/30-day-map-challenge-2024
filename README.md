@@ -59,3 +59,11 @@ The map shows airports in Iowa in 2024.
 
 [Explore Map](https://studio.foursquare.com/map/public/9c5f8b99-4f25-4ae2-80b5-a80e365f8c46)
 [View Data Source](https://data.humdata.org/dataset/ourairports-usa)
+
+## Day 9 - AI
+The image shows a comparison between AI-generated map of Iowa State University Campus with the actual map.
+
+![ISU Actual vs. AI Slideview](map-previews/day09-ai.gif)
+
+[Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day09-ai.html)
+[View Data Source](https://stablediffusionweb.com/)
