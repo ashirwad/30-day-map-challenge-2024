@@ -75,3 +75,10 @@ The image shows a sketchy map of ZIP Codes covering Ames, IA.
 
 [Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day10-pen-paper.html)
 [View Data Source](https://cran.r-project.org/web/packages/tigris/index.html)
+
+## Day 11 - Arctic
+The image shows the monthly variations in Arctic sea ice extent in 2023. As evident from the animation, sea ice extent typically peaks around March and reaches its minimum in September.
+
+![2023 Arctic Sea Ice Extent](map-previews/day11-arctic.gif)
+
+[View Data Source](https://noaadata.apps.nsidc.org/NOAA/G02135/north/monthly/shapefiles/shp_extent/)

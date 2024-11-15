@@ -33,6 +33,16 @@
       "Hash": "71476c1d88d1ebdf31580e5a257d5d31",
       "Requirements": []
     },
+    "Matrix": {
+      "Package": "Matrix",
+      "Version": "1.4-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "699c47c606293bdfbc9fd78a93c9c8fe",
+      "Requirements": [
+        "lattice"
+      ]
+    },
     "R6": {
       "Package": "R6",
       "Version": "2.5.1",
@@ -429,6 +439,47 @@
         "Rcpp"
       ]
     },
+    "gganimate": {
+      "Package": "gganimate",
+      "Version": "1.0.9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c6e8a7ff1b78529309cb2186ec1e3d38",
+      "Requirements": [
+        "cli",
+        "ggplot2",
+        "glue",
+        "lifecycle",
+        "progress",
+        "rlang",
+        "scales",
+        "stringi",
+        "transformr",
+        "tweenr",
+        "vctrs"
+      ]
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "3.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "44c6a2f8202d5b7e878ea274b1092426",
+      "Requirements": [
+        "MASS",
+        "cli",
+        "glue",
+        "gtable",
+        "isoband",
+        "lifecycle",
+        "mgcv",
+        "rlang",
+        "scales",
+        "tibble",
+        "vctrs",
+        "withr"
+      ]
+    },
     "globals": {
       "Package": "globals",
       "Version": "0.16.3",
@@ -453,6 +504,19 @@
       "Repository": "CRAN",
       "Hash": "5899f1eaa825580172bb56c08266f37c",
       "Requirements": []
+    },
+    "gtable": {
+      "Package": "gtable",
+      "Version": "0.3.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "de949855009e2d4d0e52a844e30617ae",
+      "Requirements": [
+        "cli",
+        "glue",
+        "lifecycle",
+        "rlang"
+      ]
     },
     "here": {
       "Package": "here",
@@ -561,6 +625,14 @@
         "mime",
         "openssl"
       ]
+    },
+    "isoband": {
+      "Package": "isoband",
+      "Version": "0.2.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "0080607b4a1a7b28979aecef976d8bc2",
+      "Requirements": []
     },
     "janitor": {
       "Package": "janitor",
@@ -759,6 +831,14 @@
       "Hash": "e2fca3e12e4db979dccc6e519b10a7ee",
       "Requirements": []
     },
+    "lpSolve": {
+      "Package": "lpSolve",
+      "Version": "5.6.22",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "bd62ebb5bdc0cbf55ea6da593a4475ed",
+      "Requirements": []
+    },
     "lubridate": {
       "Package": "lubridate",
       "Version": "1.9.3",
@@ -812,6 +892,17 @@
         "rlang"
       ]
     },
+    "mgcv": {
+      "Package": "mgcv",
+      "Version": "1.8-40",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c6b2fdb18cf68ab613bd564363e1ba0d",
+      "Requirements": [
+        "Matrix",
+        "nlme"
+      ]
+    },
     "mime": {
       "Package": "mime",
       "Version": "0.12",
@@ -835,6 +926,16 @@
       "Hash": "4fd8900853b746af55b81fda99da7695",
       "Requirements": [
         "colorspace"
+      ]
+    },
+    "nlme": {
+      "Package": "nlme",
+      "Version": "3.1-157",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "dbca60742be0c9eddc5205e5c7ca1f44",
+      "Requirements": [
+        "lattice"
       ]
     },
     "openssl": {
@@ -1432,6 +1533,35 @@
       "Hash": "3ec7e3ddcacc2d34a9046941222bf94d",
       "Requirements": [
         "xfun"
+      ]
+    },
+    "transformr": {
+      "Package": "transformr",
+      "Version": "0.1.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "584eda9966ed571b3adc75e338116147",
+      "Requirements": [
+        "cpp11",
+        "lpSolve",
+        "rlang",
+        "sf",
+        "tweenr",
+        "vctrs"
+      ]
+    },
+    "tweenr": {
+      "Package": "tweenr",
+      "Version": "2.0.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "82fac2b73e6a1f3874fc000aaf96d8bc",
+      "Requirements": [
+        "cpp11",
+        "farver",
+        "magrittr",
+        "rlang",
+        "vctrs"
       ]
     },
     "tzdb": {
