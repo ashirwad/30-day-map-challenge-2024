@@ -82,3 +82,11 @@ The image shows the monthly variations in Arctic sea ice extent in 2023. As evid
 ![2023 Arctic Sea Ice Extent](map-previews/day11-arctic.gif)
 
 [View Data Source](https://noaadata.apps.nsidc.org/NOAA/G02135/north/monthly/shapefiles/shp_extent/)
+
+## Day 12 - Time and Space
+The map shows how the heatmap of traffic crashes in Ames, IA, changes every 3 months during the time period between 2019 and 2021.
+
+![Ames Crash Heatmap](map-previews/day12-time-space.gif)
+
+[Explore Map](https://studio.foursquare.com/map/public/a5598c54-91fa-4312-a1c9-a892f9586f1a)
+[View Data Source](https://data.iowadot.gov/datasets/IowaDOT::crash-data-sor/api)
