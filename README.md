@@ -90,3 +90,11 @@ The map shows how the heatmap of traffic crashes in Ames, IA, changes every 3 mo
 
 [Explore Map](https://studio.foursquare.com/map/public/a5598c54-91fa-4312-a1c9-a892f9586f1a)
 [View Data Source](https://data.iowadot.gov/datasets/IowaDOT::crash-data-sor/api)
+
+## Day 13 - A New Tool
+The map shows the median age distribution by census tract for Ames, IA. The left map uses continuous color scale, while the right map makes use of the categorical color scale. Notice how the median age increases as we move further away from the Iowa State University campus.
+
+![Ames Median Age Swipe Map](map-previews/day13-new-tool.png)
+
+[Explore Map](https://ashirwad.github.io/30-day-map-challenge-2024/maps/day13-new-tool.html)
+[View Data Source](https://cran.r-project.org/web/packages/tidycensus/index.html)
